@@ -2,7 +2,7 @@
 
 ## Week 1
 
-### Saturday, January 11, 2026 - Day 1
+### Sunday, January 11, 2026 - Day 1
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - 1-3 sets of 5/e
@@ -64,7 +64,7 @@
 
 ---
 
-### Sunday, January 12, 2026 - Aerobic Development C
+### Monday, January 12, 2026 - Aerobic Development C
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - 1-3 sets of 5/e
@@ -89,7 +89,7 @@
 
 ---
 
-### Monday, January 13, 2026 - Day 2
+### Tuesday, January 13, 2026 - Day 2
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - 1-3 sets of 5/e
@@ -149,7 +149,7 @@
 
 ---
 
-### Tuesday, January 14, 2026 - Aerobic Development A
+### Wednesday, January 14, 2026 - Aerobic Development A
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - 1-3 sets of 5/e
@@ -174,7 +174,7 @@
 
 ---
 
-### Wednesday, January 15, 2026 - Day 3
+### Thursday, January 15, 2026 - Day 3
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - 1-3 sets of 5/e
@@ -233,7 +233,7 @@
 
 ---
 
-### Thursday, January 16, 2026 - REST DAY
+### Friday, January 16, 2026 - REST DAY
 
 **Active Recovery Options:**
 - [ ] Light stretching
@@ -243,7 +243,7 @@
 
 ---
 
-### Friday, January 17, 2026 - REST DAY
+### Saturday, January 17, 2026 - REST DAY
 
 **Active Recovery Options:**
 - [ ] Light stretching
@@ -255,7 +255,7 @@
 
 ## Week 2
 
-### Saturday, January 18, 2026 - Day 1
+### Sunday, January 18, 2026 - Day 1
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - 1-3 sets of 5/e
@@ -317,7 +317,7 @@
 
 ---
 
-### Sunday, January 19, 2026 - Aerobic Development C
+### Monday, January 19, 2026 - Aerobic Development C
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - 1-3 sets of 5/e
@@ -342,7 +342,7 @@
 
 ---
 
-### Monday, January 20, 2026 - Day 2
+### Tuesday, January 20, 2026 - Day 2
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - 1-3 sets of 5/e
@@ -402,7 +402,7 @@
 
 ---
 
-### Tuesday, January 21, 2026 - Aerobic Development A
+### Wednesday, January 21, 2026 - Aerobic Development A
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - 1-3 sets of 5/e
@@ -427,7 +427,7 @@
 
 ---
 
-### Wednesday, January 22, 2026 - Day 3
+### Thursday, January 22, 2026 - Day 3
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - 1-3 sets of 5/e
@@ -486,7 +486,7 @@
 
 ---
 
-### Thursday, January 23, 2026 - REST DAY
+### Friday, January 23, 2026 - REST DAY
 
 **Active Recovery Options:**
 - [ ] Light stretching
@@ -496,7 +496,7 @@
 
 ---
 
-### Friday, January 24, 2026 - REST DAY
+### Saturday, January 24, 2026 - REST DAY
 
 **Active Recovery Options:**
 - [ ] Light stretching
@@ -508,7 +508,7 @@
 
 ## Week 3
 
-### Saturday, January 25, 2026 - Day 1
+### Sunday, January 25, 2026 - Day 1
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - 1-3 sets of 5/e
@@ -570,7 +570,7 @@
 
 ---
 
-### Sunday, January 26, 2026 - Aerobic Development C
+### Monday, January 26, 2026 - Aerobic Development C
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - 1-3 sets of 5/e
@@ -595,7 +595,7 @@
 
 ---
 
-### Monday, January 27, 2026 - Day 2
+### Tuesday, January 27, 2026 - Day 2
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - 1-3 sets of 5/e
@@ -655,7 +655,7 @@
 
 ---
 
-### Tuesday, January 28, 2026 - Aerobic Development A
+### Wednesday, January 28, 2026 - Aerobic Development A
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - 1-3 sets of 5/e
@@ -680,7 +680,7 @@
 
 ---
 
-### Wednesday, January 29, 2026 - Day 3
+### Thursday, January 29, 2026 - Day 3
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - 1-3 sets of 5/e
@@ -739,7 +739,7 @@
 
 ---
 
-### Thursday, January 30, 2026 - REST DAY
+### Friday, January 30, 2026 - REST DAY
 
 **Active Recovery Options:**
 - [ ] Light stretching
@@ -749,7 +749,7 @@
 
 ---
 
-### Friday, January 31, 2026 - REST DAY
+### Saturday, January 31, 2026 - REST DAY
 
 **Active Recovery Options:**
 - [ ] Light stretching
@@ -761,7 +761,7 @@
 
 ## Week 4
 
-### Saturday, February 1, 2026 - Day 1
+### Sunday, February 1, 2026 - Day 1
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - 1-3 sets of 5/e
@@ -823,7 +823,7 @@
 
 ---
 
-### Sunday, February 2, 2026 - Aerobic Development C
+### Monday, February 2, 2026 - Aerobic Development C
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - 1-3 sets of 5/e
@@ -848,7 +848,7 @@
 
 ---
 
-### Monday, February 3, 2026 - Day 2
+### Tuesday, February 3, 2026 - Day 2
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - 1-3 sets of 5/e
@@ -908,7 +908,7 @@
 
 ---
 
-### Tuesday, February 4, 2026 - Aerobic Development A
+### Wednesday, February 4, 2026 - Aerobic Development A
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - 1-3 sets of 5/e
@@ -933,7 +933,7 @@
 
 ---
 
-### Wednesday, February 5, 2026 - Day 3
+### Thursday, February 5, 2026 - Day 3
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - 1-3 sets of 5/e
@@ -992,7 +992,7 @@
 
 ---
 
-### Thursday, February 6, 2026 - REST DAY
+### Friday, February 6, 2026 - REST DAY
 
 **Active Recovery Options:**
 - [ ] Light stretching
@@ -1002,7 +1002,7 @@
 
 ---
 
-### Friday, February 7, 2026 - REST DAY
+### Saturday, February 7, 2026 - REST DAY
 
 **Active Recovery Options:**
 - [ ] Light stretching
@@ -1015,6 +1015,6 @@
 ## Notes
 
 - **Tempo Notation:** 3/1/1 means 3 seconds eccentric, 1 second pause, 1 second concentric
-- **Rest Days:** Thursdays and Fridays are designated rest days for recovery
+- **Rest Days:** Fridays and Saturdays are designated rest days for recovery
 - **Progressive Overload:** Aim to increase weight or reps each week where possible
 - **Form:** Always prioritize proper form over heavier weights
