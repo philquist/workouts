@@ -246,10 +246,10 @@
 ### Saturday, January 17, 2026 - REST DAY
 
 **Active Recovery Options:**
-- [ ] Light stretching
-- [ ] Foam rolling
-- [ ] Walking
-- [ ] Mobility work
+- [x] Light stretching
+- [x] Foam rolling
+- [x] Walking
+- [x] Mobility work
 
 ---
 
