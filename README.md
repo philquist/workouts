@@ -8,6 +8,4 @@ Personal workout tracking and training data.
 - `data/` - Structured workout data (CSV format)
 
 ## To Do
-- [ ] Set up initial workout log for January 2026
-- [ ] Define data schema for structured tracking
 - [ ] Add baseline training program
