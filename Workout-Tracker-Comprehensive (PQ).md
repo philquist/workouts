@@ -8,13 +8,13 @@
 ### Monday, February 23, 2026 - Day 1
 
 **Warmup:**
-- [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
-- [ ] Bike 15 cal
-- [ ] Wall Sit ISO 2x:30
-- [ ] Groiner Stretch 2x3ea
-- [ ] Quadruped Hip ABD 2x5ea
-- [ ] Quadruped Hip EXT 2x5ea
-- [ ] Hip Bridges 2x10
+- [ x] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
+- [ x] Bike 15 cal
+- [ x] Wall Sit ISO 2x:30
+- [ x] Groiner Stretch 2x3ea
+- [ x] Quadruped Hip ABD 2x5ea
+- [ x] Quadruped Hip EXT 2x5ea
+- [ x] Hip Bridges 2x10
 
 **A1) Safety Bar Squat 3 x 10** - 3/1/1
 | Set | Weight | Reps | Notes |
