@@ -8,4 +8,5 @@ Personal workout tracking and training data.
 - `data/` - Structured workout data (CSV format)
 
 ## To Do
-- [ ] Add baseline training program
+- [ ] Add baseline training program (Quarterly)
+- [ ] Enter workouts daily
