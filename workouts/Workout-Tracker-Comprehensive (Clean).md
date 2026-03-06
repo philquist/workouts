@@ -1,5 +1,5 @@
 # Workout Tracker - Starting February 23, 2026
-*86 weeks of programming from Monarch Athletic Club via TrueCoach*
+*86 weeks of programming*
 *Re-dated from original programming (July 2023 - June 2025)*
 
 ## Week 1
