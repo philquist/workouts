@@ -1,4 +1,4 @@
-# Workout Tracker - Starting February 23, 2026
+# Workout Tracker - Starting February 23, 2026 
 *86 weeks of programming* 
 *Re-dated from original programming (July 2023 - June 2025)*
 
