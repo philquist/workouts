@@ -1,71 +1,71 @@
-# Workout Tracker - Starting February 23, 2026 
-*86 weeks of programming* 
+# Workout Tracker - Starting April 20, 2026
+*86 weeks of programming from Monarch Athletic Club via TrueCoach*
 *Re-dated from original programming (July 2023 - June 2025)*
 
 ## Week 1
 *Originally: Week of July 31, 2023*
 
-### Monday, February 23, 2026 - Day 1
+### Monday, April 20, 2026 - Day 1
 
 **Warmup:**
-- [x] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
-- [x] Bike 15 cal
-- [x] Wall Sit ISO 2x:30
-- [x] Groiner Stretch 2x3ea
-- [x] Quadruped Hip ABD 2x5ea
-- [x] Quadruped Hip EXT 2x5ea
-- [x] Hip Bridges 2x10
+- [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
+- [ ] Bike 15 cal
+- [ ] Wall Sit ISO 2x:30
+- [ ] Groiner Stretch 2x3ea
+- [ ] Quadruped Hip ABD 2x5ea
+- [ ] Quadruped Hip EXT 2x5ea
+- [ ] Hip Bridges 2x10
 
 **A1) Safety Bar Squat 3 x 10** - 3/1/1
 | Set | Weight | Reps | Notes |
 |-----|--------|------|-------|
-| 1   |    185    |  10    |  |
-| 2   |    185   |  10    |  |
-| 3   |    185    | 10     |  |
+| 1   |        |      |  |
+| 2   |        |      |  |
+| 3   |        |      |  |
 
 **A2) Seated Cable Lat Pulldown 3 x 10** - 3/1/1
 | Set | Weight | Reps | Notes |
 |-----|--------|------|-------|
-| 1   |     90   |  10    |  |
-| 2   |    110    |  10    |  |
-| 3   |     110   |  10    |  |
+| 1   |        |      |  |
+| 2   |        |      |  |
+| 3   |        |      |  |
 
 **B1) KB RDL 3 x 10** - 4/1/1
 | Set | Weight | Reps | Notes |
 |-----|--------|------|-------|
-| 1   |    61    |   10   |  |
-| 2   |      70  |   10   |  |
-| 3   |      88  |   10   |  |
+| 1   |        |      |  |
+| 2   |        |      |  |
+| 3   |        |      |  |
 
 **B2) Push Up 3 x 10-15 @ *STRICT 3/1/1**
 | Set | Weight | Reps | Notes |
 |-----|--------|------|-------|
-| 1   |        |   15   |  |
-| 2   |        |   15   |  |
-| 3   |        |   15   |  |
+| 1   |        |      |  |
+| 2   |        |      |  |
+| 3   |        |      |  |
 
 **C1) HK Keiser Stability Chop 2-3 x 10-12ea**
 | Set | Weight | Reps | Notes |
 |-----|--------|------|-------|
-| 1   |        |  12    |  |
-| 2   |        |   12   |  |
-| 3   |        |   12   |  |
+| 1   |        |      |  |
+| 2   |        |      |  |
+| 3   |        |      |  |
 
 **C2) Suitcase March 2-3 x 20-30 steps**
 | Set | Weight | Reps | Notes |
 |-----|--------|------|-------|
-| 1   |    79    | 30    |  |
-| 2   |     79   |   30   |  |
-| 3   |       79 |    30  |  |
+| 1   |        |      |  |
+| 2   |        |      |  |
+| 3   |        |      |  |
 
 **D) Arms DB Hammer Curl @ DB Skull Crusher Rower x 1 x 150m 3x10 No Rest**
 | Set | Weight | Reps | Notes |
 |-----|--------|------|-------|
-| 1   |    22.5    |    15  |  |
+| 1   |        |      |  |
 
 ---
 
-### Tuesday, February 24, 2026 - Aerobic Development C
+### Tuesday, April 21, 2026 - Aerobic Development C
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -89,7 +89,7 @@
 
 ---
 
-### Wednesday, February 25, 2026 - Day 2
+### Wednesday, April 22, 2026 - Day 2
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -149,7 +149,7 @@
 
 ---
 
-### Thursday, February 26, 2026 - Aerobic Development A
+### Thursday, April 23, 2026 - Aerobic Development A
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -180,7 +180,7 @@
 
 ---
 
-### Friday, February 27, 2026 - Day 3
+### Friday, April 24, 2026 - Day 3
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -237,7 +237,7 @@
 
 ---
 
-### Saturday, February 28, 2026 - Aerobic Development B
+### Saturday, April 25, 2026 - Aerobic Development B
 
 **Warmup:**
 - [ ] Spine, Shoulder, Hip CARs x5e
@@ -314,7 +314,7 @@
 ## Week 2
 *Originally: Week of August 07, 2023*
 
-### Monday, March 02, 2026 - Day 1
+### Monday, April 27, 2026 - Day 1
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -377,7 +377,7 @@
 
 ---
 
-### Tuesday, March 03, 2026 - Aerobic Development A
+### Tuesday, April 28, 2026 - Aerobic Development A
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -408,7 +408,7 @@
 
 ---
 
-### Wednesday, March 04, 2026 - Day 2
+### Wednesday, April 29, 2026 - Day 2
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -471,7 +471,7 @@
 
 ---
 
-### Thursday, March 05, 2026 - Aerobic Development B
+### Thursday, April 30, 2026 - Aerobic Development B
 
 **Warmup:**
 - [ ] Spine, Shoulder, Hip CARs x5e
@@ -538,7 +538,7 @@
 
 ---
 
-### Friday, March 06, 2026 - Day 3
+### Friday, May 01, 2026 - Day 3
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -604,7 +604,7 @@
 ## Week 3
 *Originally: Week of August 14, 2023*
 
-### Monday, March 09, 2026 - Day 1
+### Monday, May 04, 2026 - Day 1
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -667,7 +667,7 @@
 
 ---
 
-### Tuesday, March 10, 2026 - Aerobic Development A
+### Tuesday, May 5, 2026 - Aerobic Development A
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -698,7 +698,7 @@
 
 ---
 
-### Wednesday, March 11, 2026 - Day 2
+### Wednesday, May 6, 2026 - Day 2
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -761,7 +761,7 @@
 
 ---
 
-### Thursday, March 12, 2026 - Aerobic Development B
+### Thursday, May 7, 2026 - Aerobic Development B
 
 **Warmup:**
 - [ ] Spine, Shoulder, Hip CARs x5e
@@ -828,7 +828,7 @@
 
 ---
 
-### Friday, March 13, 2026 - Day 3
+### Friday, May 8, 2026 - Day 3
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -894,7 +894,7 @@
 ## Week 4
 *Originally: Week of August 21, 2023*
 
-### Monday, March 16, 2026 - Post Fatigue - Day 1, Week 4
+### Monday, May 11, 2026 - Post Fatigue - Day 1, Week 4
 
 **Warmup:**
 - [ ] CARs x 3-5ea Goblet Kang Squat x 5 KB Arm Bar x 5ea Lateral Bound x 10
@@ -968,7 +968,7 @@
 
 ---
 
-### Tuesday, March 17, 2026 - 9 Holes
+### Tuesday, May 12, 2026 - 9 Holes
 
 **Warmup:**
 - [ ] Spine, Shoulder, Hip CARs x5e
@@ -984,7 +984,7 @@
 
 ---
 
-### Wednesday, March 18, 2026 - Post Fatigue - Day 2, Week 4
+### Wednesday, May 13, 2026 - Post Fatigue - Day 2, Week 4
 
 **Warmup:**
 - [ ] CARs x 3-5ea Overhead Walking Lunge x 5ea MB Chest Pass x 10 SL Glute Bridge ISO x 30s ea
@@ -1057,7 +1057,7 @@
 
 ---
 
-### Thursday, March 19, 2026 - Corn Fed
+### Thursday, May 14, 2026 - Corn Fed
 
 **Warmup:**
 - [ ] Spine, Shoulder, Hip CARs x5e
@@ -1086,7 +1086,7 @@
 
 ---
 
-### Friday, March 20, 2026 - Post Fatigue - Day 3, Week 4
+### Friday, May 15, 2026 - Post Fatigue - Day 3, Week 4
 
 **Warmup:**
 - [ ] CARs x 3-5ea Lateral Lunge w/ Rotation x 5ea MB Rotary Toss x 5ea Countermovement Jump x 5
@@ -1161,7 +1161,7 @@
 
 ---
 
-### Saturday, March 21, 2026 - Hold Your Horses
+### Saturday, May 16, 2026 - Hold Your Horses
 
 **Warmup:**
 - [ ] Spine, Shoulder, Hip CARs x5e
@@ -1186,7 +1186,7 @@
 ## Week 5
 *Originally: Week of August 28, 2023*
 
-### Monday, March 23, 2026 - Post Fatigue - Day 1, Week 5
+### Monday, May 18, 2026 - Post Fatigue - Day 1, Week 5
 
 **Warmup:**
 - [ ] CARs x 3-5ea Goblet Kang Squat x 5 KB Arm Bar x 5ea Lateral Bound x 10
@@ -1260,7 +1260,7 @@
 
 ---
 
-### Tuesday, March 24, 2026 - 9 Holes
+### Tuesday, May 19, 2026 - 9 Holes
 
 **Warmup:**
 - [ ] Spine, Shoulder, Hip CARs x5e
@@ -1276,7 +1276,7 @@
 
 ---
 
-### Wednesday, March 25, 2026 - Post Fatigue - Day 2, Week 5
+### Wednesday, May 20, 2026 - Post Fatigue - Day 2, Week 5
 
 **Warmup:**
 - [ ] CARs x 3-5ea Overhead Walking Lunge x 5ea MB Chest Pass x 10 SL Glute Bridge ISO x 30s ea
@@ -1349,7 +1349,7 @@
 
 ---
 
-### Thursday, March 26, 2026 - Corn Fed
+### Thursday, May 21, 2026 - Corn Fed
 
 **Warmup:**
 - [ ] Spine, Shoulder, Hip CARs x5e
@@ -1378,7 +1378,7 @@
 
 ---
 
-### Friday, March 27, 2026 - Post Fatigue - Day 3, Week 5
+### Friday, May 22, 2026 - Post Fatigue - Day 3, Week 5
 
 **Warmup:**
 - [ ] CARs x 3-5ea Lateral Lunge w/ Rotation x 5ea MB Rotary Toss x 5ea Countermovement Jump x 5
@@ -1453,7 +1453,7 @@
 
 ---
 
-### Saturday, March 28, 2026 - Hold Your Horses
+### Saturday, May 23, 2026 - Hold Your Horses
 
 **Warmup:**
 - [ ] Spine, Shoulder, Hip CARs x5e
@@ -1478,7 +1478,7 @@
 ## Week 6
 *Originally: Week of September 04, 2023*
 
-### Monday, March 30, 2026 - Wave Loading - Day 1, Week 1
+### Monday, May 25, 2026 - Wave Loading - Day 1, Week 1
 
 **Warmup:**
 - [ ] CARs x 3-5ea Supine Leg Crossover x 5ea 1/2 TGU x 3ea x2
@@ -1553,7 +1553,7 @@
 
 ---
 
-### Tuesday, March 31, 2026 - Bless Your Heart & Lungs
+### Tuesday, May 26, 2026 - Bless Your Heart & Lungs
 
 **Warmup:**
 - [ ] Spine, Shoulder, Hip CARs x5e
@@ -1568,7 +1568,7 @@
 
 ---
 
-### Wednesday, April 01, 2026 - Wave Loading - Day 2, Week 1
+### Wednesday, May 27, 2026 - Wave Loading - Day 2, Week 1
 
 **Warmup:**
 - [ ] CARs x 3-5ea High Plank to Down Dog x 8 1/2 TGD x 3ea x2
@@ -1643,7 +1643,7 @@
 
 ---
 
-### Thursday, April 02, 2026 - Sandbagging
+### Thursday, May 28, 2026 - Sandbagging
 
 **Warmup:**
 - [ ] Spine, Shoulder, Hip CARs x5e
@@ -1707,7 +1707,7 @@
 
 ---
 
-### Friday, April 03, 2026 - Wave Loading - Day 3, Week 1
+### Friday, May 29, 2026 - Wave Loading - Day 3, Week 1
 
 **Warmup:**
 - [ ] CARs x 3-5ea Lateral Beast Walk x 5ea Lateral Step Up x 5ea x2
@@ -1783,7 +1783,7 @@
 
 ---
 
-### Saturday, April 04, 2026 - Hold Your Horses
+### Saturday, May 30, 2026 - Hold Your Horses
 
 **Warmup:**
 - [ ] Spine, Shoulder, Hip CARs x5e
@@ -1808,7 +1808,7 @@
 ## Week 7
 *Originally: Week of September 11, 2023*
 
-### Monday, April 06, 2026 - Wave Loading - Day 1, Week 2
+### Monday, June 01, 2026 - Wave Loading - Day 1, Week 2
 
 **Warmup:**
 - [ ] CARs x 3-5ea Supine Leg Crossover x 5ea 1/2 TGU x 3ea x2
@@ -1883,7 +1883,7 @@
 
 ---
 
-### Tuesday, April 07, 2026 - Bless Your Heart & Lungs
+### Tuesday, June 02, 2026 - Bless Your Heart & Lungs
 
 **Warmup:**
 - [ ] Spine, Shoulder, Hip CARs x5e
@@ -1898,7 +1898,7 @@
 
 ---
 
-### Wednesday, April 08, 2026 - Wave Loading - Day 2, Week 2
+### Wednesday, June 03, 2026 - Wave Loading - Day 2, Week 2
 
 **Warmup:**
 - [ ] CARs x 3-5ea High Plank to Down Dog x 8 1/2 TGD x 3ea x2
@@ -1973,7 +1973,7 @@
 
 ---
 
-### Thursday, April 09, 2026 - Sandbagging
+### Thursday, June 04, 2026 - Sandbagging
 
 **Warmup:**
 - [ ] Spine, Shoulder, Hip CARs x5e
@@ -2037,7 +2037,7 @@
 
 ---
 
-### Friday, April 10, 2026 - Wave Loading - Day 3, Week 2
+### Friday, June 5, 2026 - Wave Loading - Day 3, Week 2
 
 **Warmup:**
 - [ ] CARs x 3-5ea Lateral Beast Walk x 5ea Lateral Step Up x 5ea x2
@@ -2113,7 +2113,7 @@
 
 ---
 
-### Saturday, April 11, 2026 - Hold Your Horses
+### Saturday, June 6, 2026 - Hold Your Horses
 
 **Warmup:**
 - [ ] Spine, Shoulder, Hip CARs x5e
@@ -2138,7 +2138,7 @@
 ## Week 8
 *Originally: Week of September 18, 2023*
 
-### Monday, April 13, 2026 - Wave Loading - Day 1, Week 3
+### Monday, June 8, 2026 - Wave Loading - Day 1, Week 3
 
 **Warmup:**
 - [ ] CARs x 3-5ea Supine Leg Crossover x 5ea 1/2 TGU x 3ea x2
@@ -2213,7 +2213,7 @@
 
 ---
 
-### Tuesday, April 14, 2026 - Bless Your Heart & Lungs
+### Tuesday, June 9, 2026 - Bless Your Heart & Lungs
 
 **Warmup:**
 - [ ] Spine, Shoulder, Hip CARs x5e
@@ -2228,7 +2228,7 @@
 
 ---
 
-### Wednesday, April 15, 2026 - Wave Loading - Day 2, Week 3
+### Wednesday, June 10, 2026 - Wave Loading - Day 2, Week 3
 
 **Warmup:**
 - [ ] CARs x 3-5ea High Plank to Down Dog x 8 1/2 TGD x 3ea x2
@@ -2303,7 +2303,7 @@
 
 ---
 
-### Thursday, April 16, 2026 - Sandbagging
+### Thursday, June 11, 2026 - Sandbagging
 
 **Warmup:**
 - [ ] Spine, Shoulder, Hip CARs x5e
@@ -2367,7 +2367,7 @@
 
 ---
 
-### Friday, April 17, 2026 - Wave Loading - Day 3, Week 3
+### Friday, June 12, 2026 - Wave Loading - Day 3, Week 3
 
 **Warmup:**
 - [ ] CARs x 3-5ea Lateral Beast Walk x 5ea Lateral Step Up x 5ea x2
@@ -2443,7 +2443,7 @@
 
 ---
 
-### Saturday, April 18, 2026 - Hold Your Horses
+### Saturday, June 13, 2026 - Hold Your Horses
 
 **Warmup:**
 - [ ] Spine, Shoulder, Hip CARs x5e
@@ -2468,7 +2468,7 @@
 ## Week 9
 *Originally: Week of September 25, 2023*
 
-### Monday, April 20, 2026 - * *Wave Loading - Day 3, Week 4* *
+### Monday, June 15, 2026 - * *Wave Loading - Day 3, Week 4* *
 
 **Warmup:**
 - [ ] * CARs x 3-5ea Lateral Beast Walk x 5ea Lateral Step Up x 5ea x2 *A1) MB Chest Pass* 3x8 *FAST *A2) Box Jump* 3x5 *Record Box height *B) BB Back Squat*
@@ -2483,7 +2483,7 @@
 
 ---
 
-### Tuesday, April 21, 2026 - * *Bless Your Heart & Lungs* *
+### Tuesday, June 16, 2026 - * *Bless Your Heart & Lungs* *
 
 **Warmup:**
 - [ ] *
@@ -2492,7 +2492,7 @@
 
 ---
 
-### Wednesday, April 22, 2026 - * *Wave Loading - Day 2, Week 4* *
+### Wednesday, June 17, 2026 - * *Wave Loading - Day 2, Week 4* *
 
 **Warmup:**
 - [ ] * CARs x 3-5ea High Plank to Down Dog x 8 1/2 TGD x 3ea x2 *A1) MB OH Slam* 3x8 @ *FAST *A2) Sprint* 3x10s *Woodway - Dynamic Braking *Incline 12 *Max Effort - Record Max MPH *B) BB Bench Press*
@@ -2506,7 +2506,7 @@
 
 ---
 
-### Thursday, April 23, 2026 - * *Sandbagging* *
+### Thursday, June 18, 2026 - * *Sandbagging* *
 
 **Warmup:**
 - [ ] *
@@ -2550,7 +2550,7 @@
 
 ---
 
-### Friday, April 24, 2026 - * *Wave Loading - Day 1, Week 4* *
+### Friday, June 19, 2026 - * *Wave Loading - Day 1, Week 4* *
 
 **Warmup:**
 - [ ] * CARs x 3-5ea Supine Leg Crossover x 5ea 1/2 TGU x 3ea x2 *A1) MB Rotary Toss* 3x6ea *FAST *A2) Broad Jump* 3x3 *Utilize turf hash marks to record approximate distance. *B) Trap Bar Deadlift*
@@ -2564,7 +2564,7 @@
 
 ---
 
-### Saturday, April 25, 2026 - * *Hold Your Horses* *
+### Saturday, June 20, 2026 - * *Hold Your Horses* *
 
 **Warmup:**
 - [ ] *
@@ -2576,7 +2576,7 @@
 ## Week 10
 *Originally: Week of October 02, 2023*
 
-### Monday, April 27, 2026 - Wave Loading - Day 3, Week 5
+### Monday, June 22, 2026 - Wave Loading - Day 3, Week 5
 
 **Warmup:**
 - [ ] CARs x 3-5ea Lateral Beast Walk x 5ea Lateral Step Up x 5ea x2
@@ -2652,7 +2652,7 @@
 
 ---
 
-### Tuesday, April 28, 2026 - Bless Your Heart & Lungs
+### Tuesday, June 23, 2026 - Bless Your Heart & Lungs
 
 **Warmup:**
 - [ ] Spine, Shoulder, Hip CARs x5e
@@ -2667,7 +2667,7 @@
 
 ---
 
-### Wednesday, April 29, 2026 - Wave Loading - Day 2, Week 5
+### Wednesday, June 24, 2026 - Wave Loading - Day 2, Week 5
 
 **Warmup:**
 - [ ] CARs x 3-5ea High Plank to Down Dog x 8 1/2 TGD x 3ea x2
@@ -2742,7 +2742,7 @@
 
 ---
 
-### Thursday, April 30, 2026 - Sandbagging
+### Thursday, June 25, 2026 - Sandbagging
 
 **Warmup:**
 - [ ] Spine, Shoulder, Hip CARs x5e
@@ -2806,7 +2806,7 @@
 
 ---
 
-### Friday, May 01, 2026 - Wave Loading - Day 1, Week 5
+### Friday, June 26, 2026 - Wave Loading - Day 1, Week 5
 
 **Warmup:**
 - [ ] CARs x 3-5ea Supine Leg Crossover x 5ea 1/2 TGU x 3ea x2
@@ -2881,7 +2881,7 @@
 
 ---
 
-### Saturday, May 02, 2026 - Hold Your Horses
+### Saturday, June 27, 2026 - Hold Your Horses
 
 **Warmup:**
 - [ ] Spine, Shoulder, Hip CARs x5e
@@ -2906,7 +2906,7 @@
 ## Week 11
 *Originally: Week of October 09, 2023*
 
-### Monday, May 04, 2026 - Testing A
+### Monday, June 29, 2026 - Testing A
 
 **Warmup:**
 - [ ] Only need to perform the following tests ONCE per training block
@@ -2934,7 +2934,7 @@
 
 ---
 
-### Tuesday, May 05, 2026 - Day 1, Week 1
+### Tuesday, June 30, 2026 - Day 1, Week 1
 
 **Warmup:**
 - [ ] 1) CARs 2) Echo Bike x 10-15cals @ Moderate speed 3) Swimmers Hover 4) 90/90 Transitions
@@ -3021,7 +3021,7 @@
 
 ---
 
-### Wednesday, May 06, 2026 - Chipper Jones
+### Wednesday, July 01, 2026 - Chipper Jones
 
 **Warmup:**
 - [ ] Spine, Shoulder, Hip CARs x5e
@@ -3050,7 +3050,7 @@
 
 ---
 
-### Thursday, May 07, 2026 - Testing A
+### Thursday, July 02, 2026 - Testing A
 
 **Warmup:**
 - [ ] Only need to perform the following tests ONCE per training block
@@ -3078,7 +3078,7 @@
 
 ---
 
-### Friday, May 08, 2026 - Testing B
+### Friday, July 03, 2026 - Testing B
 
 **Warmup:**
 - [ ] Only need to perform the following tests ONCE per training block
@@ -3102,7 +3102,7 @@
 
 ---
 
-### Saturday, May 09, 2026 - Day 2, Week 1
+### Saturday, July 04, 2026 - Day 2, Week 1
 
 **Warmup:**
 - [ ] 1) CARs 2) Echo Bike x 10-15cals @ Moderate speed 3) Swimmers Hover 4) 90/90 Transitions 3b) Y, T, W 2x5ea - Bent Over or Bench Supp. 3c) Transverse Lunge 2x8ea
@@ -3189,7 +3189,7 @@
 
 ---
 
-### Sunday, May 10, 2026 - Let the Bodies Hit the Flow
+### Sunday, July 5, 2026 - Let the Bodies Hit the Flow
 
 **Warmup:**
 - [ ] Spine, Shoulder, Hip CARs x5e
@@ -3345,7 +3345,7 @@
 
 ---
 
-### Monday, May 11, 2026 - Testing B
+### Monday, July 6, 2026 - Testing B
 
 **Warmup:**
 - [ ] Only need to perform the following tests ONCE per training block
@@ -3366,7 +3366,7 @@
 
 ---
 
-### Tuesday, May 12, 2026 - Testing C
+### Tuesday, July 7, 2026 - Testing C
 
 **Warmup:**
 - [ ] Only need to perform the following tests ONCE per training block
@@ -3387,7 +3387,7 @@
 
 ---
 
-### Wednesday, May 13, 2026 - Day, 3, Week 1
+### Wednesday, July 8, 2026 - Day, 3, Week 1
 
 **Warmup:**
 - [ ] 1) CARs 2) Echo Bike x 10-15cals @ Moderate speed 3) Swimmers Hover 4) 90/90 Transitions
@@ -3475,7 +3475,7 @@
 
 ---
 
-### Thursday, May 14, 2026 - Testing C
+### Thursday, July 9, 2026 - Testing C
 
 **Warmup:**
 - [ ] Only need to perform the following tests ONCE per training block
@@ -3499,7 +3499,7 @@
 ## Week 12
 *Originally: Week of October 16, 2023*
 
-### Monday, May 11, 2026 - Testing A
+### Monday, July 6, 2026 - Testing A
 
 **Warmup:**
 - [ ] Only need to perform the following tests ONCE per training block
@@ -3527,7 +3527,7 @@
 
 ---
 
-### Tuesday, May 12, 2026 - 3RM Deadlift
+### Tuesday, July 7, 2026 - 3RM Deadlift
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -3547,7 +3547,7 @@
 
 ---
 
-### Wednesday, May 13, 2026 - Day 1, Week 2
+### Wednesday, July 8, 2026 - Day 1, Week 2
 
 **Warmup:**
 - [ ] 1) CARs 2) Echo Bike x 10-15cals @ Moderate speed 3) Swimmers Hover 4) 90/90 Transitions
@@ -3634,7 +3634,7 @@
 
 ---
 
-### Thursday, May 14, 2026 - Chipper Jones
+### Thursday, July 9, 2026 - Chipper Jones
 
 **Warmup:**
 - [ ] Spine, Shoulder, Hip CARs x5e
@@ -3663,7 +3663,7 @@
 
 ---
 
-### Friday, May 15, 2026 - Testing C
+### Friday, July 10, 2026 - Testing C
 
 **Warmup:**
 - [ ] Only need to perform the following tests ONCE per training block
@@ -3684,7 +3684,7 @@
 
 ---
 
-### Saturday, May 16, 2026 - 3RM Bench Press
+### Saturday, July 11, 2026 - 3RM Bench Press
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -3704,7 +3704,7 @@
 
 ---
 
-### Sunday, May 17, 2026 - Day 2, Week 2
+### Sunday, July 12, 2026 - Day 2, Week 2
 
 **Warmup:**
 - [ ] 1) CARs 2) Echo Bike x 10-15cals @ Moderate speed 3) Swimmers Hover 4) 90/90 Transitions 3b) Y, T, W 2x5ea - Bent Over or Bench Supp. 3c) Transverse Lunge 2x8ea
@@ -3791,7 +3791,7 @@
 
 ---
 
-### Monday, May 18, 2026 - Let the Bodies Hit the Flow
+### Monday, July 13, 2026 - Let the Bodies Hit the Flow
 
 **Warmup:**
 - [ ] Spine, Shoulder, Hip CARs x5e
@@ -3947,7 +3947,7 @@
 
 ---
 
-### Tuesday, May 19, 2026 - Testing B
+### Tuesday, July 14, 2026 - Testing B
 
 **Warmup:**
 - [ ] Only need to perform the following tests ONCE per training block
@@ -3971,7 +3971,7 @@
 
 ---
 
-### Wednesday, May 20, 2026 - 3RM Squat
+### Wednesday, July 15, 2026 - 3RM Squat
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -3991,7 +3991,7 @@
 
 ---
 
-### Thursday, May 21, 2026 - Day, 3, Week 2
+### Thursday, July 16, 2026 - Day, 3, Week 2
 
 **Warmup:**
 - [ ] 1) CARs 2) Echo Bike x 10-15cals @ Moderate speed 3) Swimmers Hover 4) 90/90 Transitions
@@ -4082,7 +4082,7 @@
 ## Week 13
 *Originally: Week of October 23, 2023*
 
-### Monday, May 18, 2026 - "The Ocho" - Day 1, Week 1
+### Monday, July 13, 2026 - "The Ocho" - Day 1, Week 1
 
 **Warmup:**
 - [ ] CARs Sled Push 3 x 15yds Assisted Skater Squat (DB or TRX) 3 x 8ea Inchworm 3 x 8 Active Hang 3x :20-30s
@@ -4148,7 +4148,7 @@
 
 ---
 
-### Tuesday, May 19, 2026 - ESD Day 1 - Mixed Blocks
+### Tuesday, July 14, 2026 - ESD Day 1 - Mixed Blocks
 
 **Warmup:**
 - [ ] Thermo: Choose 1 - Perform 2:00
@@ -4345,7 +4345,7 @@
 
 ---
 
-### Wednesday, May 20, 2026 - "The Ocho" - Day 2, Week 1
+### Wednesday, July 15, 2026 - "The Ocho" - Day 2, Week 1
 
 **Warmup:**
 - [ ] CARs Lateral Squat Shift 3 x :30s Band Pull Apart 3 x 12 GHD Hip Ext. 3 x 12 Front Rack Hold 3 x :20-30s
@@ -4412,7 +4412,7 @@
 
 ---
 
-### Thursday, May 21, 2026 - ESD Day 2 - Sprint Repeats - Various Durations
+### Thursday, July 16, 2026 - ESD Day 2 - Sprint Repeats - Various Durations
 
 **Warmup:**
 - [ ] CARs Routine: 3x each Neck Scap Shoulders Elbow Wrists T/S Spine Hip Knee Ankle Toes
@@ -4475,7 +4475,7 @@
 
 ---
 
-### Friday, May 22, 2026 - "The Ocho" - Day 3, Week 1
+### Friday, July 17, 2026 - "The Ocho" - Day 3, Week 1
 
 **Warmup:**
 - [ ] CARs Goblet Good Morning 3 x 8 Pallof Pres 3 x 8ea SB Hip ABD Iso 3 x :20s ea Scapular Push Ups 3 x 12
@@ -4548,7 +4548,7 @@
 
 ---
 
-### Saturday, May 23, 2026 - ESD Day 3 - Choose Your Challenge(s)
+### Saturday, July 18, 2026 - ESD Day 3 - Choose Your Challenge(s)
 
 **Warmup:**
 - [ ] CARs Routine: 3x each Neck Scap Shoulders Elbow Wrists T/S Spine Hip Knee Ankle Toes
@@ -4593,7 +4593,7 @@
 ## Week 14
 *Originally: Week of October 30, 2023*
 
-### Monday, May 25, 2026 - "The Ocho" - Day 1, Week 2
+### Monday, July 20, 2026 - "The Ocho" - Day 1, Week 2
 
 **Warmup:**
 - [ ] CARs Sled Push 3 x 15yds Assisted Skater Squat (DB or TRX) 3 x 8ea Inchworm 3 x 8 Active Hang 3x :20-30s
@@ -4659,7 +4659,7 @@
 
 ---
 
-### Tuesday, May 26, 2026 - ESD Day 1 - Mixed Blocks
+### Tuesday, July 21, 2026 - ESD Day 1 - Mixed Blocks
 
 **Warmup:**
 - [ ] Thermo: Choose 1 - Perform 2:00
@@ -4856,7 +4856,7 @@
 
 ---
 
-### Wednesday, May 27, 2026 - "The Ocho" - Day 2, Week 2
+### Wednesday, July 22, 2026 - "The Ocho" - Day 2, Week 2
 
 **Warmup:**
 - [ ] CARs Lateral Squat Shift 3 x :30s Band Pull Apart 3 x 12 GHD Hip Ext. 3 x 12 Front Rack Hold 3 x :20-30s
@@ -4923,7 +4923,7 @@
 
 ---
 
-### Thursday, May 28, 2026 - ESD Day 2 - Sprint Repeats - Various Durations
+### Thursday, July 23, 2026 - ESD Day 2 - Sprint Repeats - Various Durations
 
 **Warmup:**
 - [ ] CARs Routine: 3x each Neck Scap Shoulders Elbow Wrists T/S Spine Hip Knee Ankle Toes
@@ -4986,7 +4986,7 @@
 
 ---
 
-### Friday, May 29, 2026 - "The Ocho" - Day 3, Week 2
+### Friday, July 24, 2026 - "The Ocho" - Day 3, Week 2
 
 **Warmup:**
 - [ ] CARs Goblet Good Morning 3 x 8 Pallof Pres 3 x 8ea SB Hip ABD Iso 3 x :20s ea Scapular Push Ups 3 x 12
@@ -5059,7 +5059,7 @@
 
 ---
 
-### Saturday, May 30, 2026 - ESD Day 3 - Choose Your Challenge(s)
+### Saturday, July 25, 2026 - ESD Day 3 - Choose Your Challenge(s)
 
 **Warmup:**
 - [ ] CARs Routine: 3x each Neck Scap Shoulders Elbow Wrists T/S Spine Hip Knee Ankle Toes
@@ -5104,7 +5104,7 @@
 ## Week 15
 *Originally: Week of November 06, 2023*
 
-### Monday, June 01, 2026 - "The Ocho" - Day 1, Week 3
+### Monday, July 27, 2026 - "The Ocho" - Day 1, Week 3
 
 **Warmup:**
 - [ ] CARs Sled Push 3 x 15yds Assisted Skater Squat (DB or TRX) 3 x 8ea Inchworm 3 x 8 Active Hang 3x :20-30s
@@ -5170,7 +5170,7 @@
 
 ---
 
-### Tuesday, June 02, 2026 - ESD Day 1 - Mixed Blocks
+### Tuesday, July 28, 2026 - ESD Day 1 - Mixed Blocks
 
 **Warmup:**
 - [ ] Thermo: Choose 1 - Perform 2:00
@@ -5367,7 +5367,7 @@
 
 ---
 
-### Wednesday, June 03, 2026 - "The Ocho" - Day 2, Week 3
+### Wednesday, July 29, 2026 - "The Ocho" - Day 2, Week 3
 
 **Warmup:**
 - [ ] CARs Lateral Squat Shift 3 x :30s Band Pull Apart 3 x 12 GHD Hip Ext. 3 x 12 Front Rack Hold 3 x :20-30s
@@ -5434,7 +5434,7 @@
 
 ---
 
-### Thursday, June 04, 2026 - ESD Day 2 - Sprint Repeats - Various Durations
+### Thursday, July 30, 2026 - ESD Day 2 - Sprint Repeats - Various Durations
 
 **Warmup:**
 - [ ] CARs Routine: 3x each Neck Scap Shoulders Elbow Wrists T/S Spine Hip Knee Ankle Toes
@@ -5497,7 +5497,7 @@
 
 ---
 
-### Friday, June 05, 2026 - "The Ocho" - Day 3, Week 3
+### Friday, July 31, 2026 - "The Ocho" - Day 3, Week 3
 
 **Warmup:**
 - [ ] CARs Goblet Good Morning 3 x 8 Pallof Pres 3 x 8ea SB Hip ABD Iso 3 x :20s ea Scapular Push Ups 3 x 12
@@ -5570,7 +5570,7 @@
 
 ---
 
-### Saturday, June 06, 2026 - ESD Day 3 - Choose Your Challenge(s)
+### Saturday, August 01, 2026 - ESD Day 3 - Choose Your Challenge(s)
 
 **Warmup:**
 - [ ] CARs Routine: 3x each Neck Scap Shoulders Elbow Wrists T/S Spine Hip Knee Ankle Toes
@@ -5615,7 +5615,7 @@
 ## Week 16
 *Originally: Week of November 13, 2023*
 
-### Monday, June 08, 2026 - "The Ocho" - Day 1, Week 4
+### Monday, August 03, 2026 - "The Ocho" - Day 1, Week 4
 
 **Warmup:**
 - [ ] CARs Sled Push 3 x 15yds Assisted Skater Squat (DB or TRX) 3 x 8ea Inchworm 3 x 8 Active Hang 3x :20-30s
@@ -5681,7 +5681,7 @@
 
 ---
 
-### Tuesday, June 09, 2026 - ESD Day 1 - Mixed Blocks
+### Tuesday, August 04, 2026 - ESD Day 1 - Mixed Blocks
 
 **Warmup:**
 - [ ] Thermo: Choose 1 - Perform 2:00
@@ -5878,7 +5878,7 @@
 
 ---
 
-### Wednesday, June 10, 2026 - "The Ocho" - Day 2, Week 4
+### Wednesday, August 5, 2026 - "The Ocho" - Day 2, Week 4
 
 **Warmup:**
 - [ ] CARs Lateral Squat Shift 3 x :30s Band Pull Apart 3 x 12 GHD Hip Ext. 3 x 12 Front Rack Hold 3 x :20-30s
@@ -5945,7 +5945,7 @@
 
 ---
 
-### Thursday, June 11, 2026 - ESD Day 2 - Sprint Repeats - Various Durations
+### Thursday, August 6, 2026 - ESD Day 2 - Sprint Repeats - Various Durations
 
 **Warmup:**
 - [ ] CARs Routine: 3x each Neck Scap Shoulders Elbow Wrists T/S Spine Hip Knee Ankle Toes
@@ -6008,7 +6008,7 @@
 
 ---
 
-### Friday, June 12, 2026 - "The Ocho" - Day 3, Week 4
+### Friday, August 7, 2026 - "The Ocho" - Day 3, Week 4
 
 **Warmup:**
 - [ ] CARs Goblet Good Morning 3 x 8 Pallof Pres 3 x 8ea SB Hip ABD Iso 3 x :20s ea Scapular Push Ups 3 x 12
@@ -6081,7 +6081,7 @@
 
 ---
 
-### Saturday, June 13, 2026 - ESD Day 3 - Choose Your Challenge(s)
+### Saturday, August 8, 2026 - ESD Day 3 - Choose Your Challenge(s)
 
 **Warmup:**
 - [ ] CARs Routine: 3x each Neck Scap Shoulders Elbow Wrists T/S Spine Hip Knee Ankle Toes
@@ -6126,7 +6126,7 @@
 ## Week 17
 *Originally: Week of November 20, 2023*
 
-### Monday, June 15, 2026 - "The Ocho" - Day 1, Week 5
+### Monday, August 10, 2026 - "The Ocho" - Day 1, Week 5
 
 **Warmup:**
 - [ ] CARs Sled Push 3 x 15yds Assisted Skater Squat (DB or TRX) 3 x 8ea Inchworm 3 x 8 Active Hang 3x :20-30s
@@ -6192,7 +6192,7 @@
 
 ---
 
-### Tuesday, June 16, 2026 - ESD Day 1 - Mixed Blocks
+### Tuesday, August 11, 2026 - ESD Day 1 - Mixed Blocks
 
 **Warmup:**
 - [ ] Thermo: Choose 1 - Perform 2:00
@@ -6389,7 +6389,7 @@
 
 ---
 
-### Wednesday, June 17, 2026 - "The Ocho" - Day 2, Week 5
+### Wednesday, August 12, 2026 - "The Ocho" - Day 2, Week 5
 
 **Warmup:**
 - [ ] CARs Lateral Squat Shift 3 x :30s Band Pull Apart 3 x 12 GHD Hip Ext. 3 x 12 Front Rack Hold 3 x :20-30s
@@ -6456,7 +6456,7 @@
 
 ---
 
-### Thursday, June 18, 2026 - ESD Day 2 - Sprint Repeats - Various Durations
+### Thursday, August 13, 2026 - ESD Day 2 - Sprint Repeats - Various Durations
 
 **Warmup:**
 - [ ] CARs Routine: 3x each Neck Scap Shoulders Elbow Wrists T/S Spine Hip Knee Ankle Toes
@@ -6519,7 +6519,7 @@
 
 ---
 
-### Friday, June 19, 2026 - "The Ocho" - Day 3, Week 5
+### Friday, August 14, 2026 - "The Ocho" - Day 3, Week 5
 
 **Warmup:**
 - [ ] CARs Goblet Good Morning 3 x 8 Pallof Pres 3 x 8ea SB Hip ABD Iso 3 x :20s ea Scapular Push Ups 3 x 12
@@ -6592,7 +6592,7 @@
 
 ---
 
-### Saturday, June 20, 2026 - ESD Day 3 - Choose Your Challenge(s)
+### Saturday, August 15, 2026 - ESD Day 3 - Choose Your Challenge(s)
 
 **Warmup:**
 - [ ] CARs Routine: 3x each Neck Scap Shoulders Elbow Wrists T/S Spine Hip Knee Ankle Toes
@@ -6637,7 +6637,7 @@
 ## Week 18
 *Originally: Week of November 27, 2023*
 
-### Monday, June 22, 2026 - Day 1, Week 1
+### Monday, August 17, 2026 - Day 1, Week 1
 
 **Warmup:**
 - [ ] CARs Dead Stop KB Swing 3 x 10 Tall Plank w/ Alt Limb Reach 3 x 5ea Sled Push 3 x 15yds
@@ -6716,7 +6716,7 @@
 
 ---
 
-### Tuesday, June 23, 2026 - ESD Day 1
+### Tuesday, August 18, 2026 - ESD Day 1
 
 **Warmup:**
 - [ ] CARs
@@ -6751,7 +6751,7 @@
 
 ---
 
-### Wednesday, June 24, 2026 - Day 2, Week 1
+### Wednesday, August 19, 2026 - Day 2, Week 1
 
 **Warmup:**
 - [ ] CARs Bear Crawl 3 x 5yds Fwd/Bwd GHD Back Extension Iso 3 x :20-30s Walking Lunge 3 x 6ea
@@ -6838,7 +6838,7 @@
 
 ---
 
-### Thursday, June 25, 2026 - ESD Day 2
+### Thursday, August 20, 2026 - ESD Day 2
 
 **Warmup:**
 - [ ] CARs
@@ -6866,7 +6866,7 @@
 
 ---
 
-### Friday, June 26, 2026 - Day 3, Week 1
+### Friday, August 21, 2026 - Day 3, Week 1
 
 **Warmup:**
 - [ ] CARs Goblet Good Morning 3 x 6 HK KB Windmill 3 x 6ea Hollow Hold 3 x :20-30s
@@ -6945,7 +6945,7 @@
 
 ---
 
-### Saturday, June 27, 2026 - ESD Day 3
+### Saturday, August 22, 2026 - ESD Day 3
 
 **Warmup:**
 - [ ] Spine, Shoulder, Hip CARs x5e
@@ -6970,7 +6970,7 @@
 ## Week 19
 *Originally: Week of December 04, 2023*
 
-### Monday, June 29, 2026 - Day 1, Week 2
+### Monday, August 24, 2026 - Day 1, Week 2
 
 **Warmup:**
 - [ ] CARs Dead Stop KB Swing 3 x 10 Tall Plank w/ Alt Limb Reach 3 x 5ea Sled Push 3 x 15yds
@@ -7049,7 +7049,7 @@
 
 ---
 
-### Tuesday, June 30, 2026 - ESD Day 1
+### Tuesday, August 25, 2026 - ESD Day 1
 
 **Warmup:**
 - [ ] CARs
@@ -7084,7 +7084,7 @@
 
 ---
 
-### Wednesday, July 01, 2026 - Day 2, Week 2
+### Wednesday, August 26, 2026 - Day 2, Week 2
 
 **Warmup:**
 - [ ] CARs Bear Crawl 3 x 5yds Fwd/Bwd GHD Back Extension Iso 3 x :20-30s Walking Lunge 3 x 6ea
@@ -7171,7 +7171,7 @@
 
 ---
 
-### Thursday, July 02, 2026 - ESD Day 2
+### Thursday, August 27, 2026 - ESD Day 2
 
 **Warmup:**
 - [ ] CARs
@@ -7199,7 +7199,7 @@
 
 ---
 
-### Friday, July 03, 2026 - Day 3, Week 2
+### Friday, August 28, 2026 - Day 3, Week 2
 
 **Warmup:**
 - [ ] CARs Goblet Good Morning 3 x 6 HK KB Windmill 3 x 6ea Hollow Hold 3 x :20-30s
@@ -7278,7 +7278,7 @@
 
 ---
 
-### Saturday, July 04, 2026 - ESD Day 3
+### Saturday, August 29, 2026 - ESD Day 3
 
 **Warmup:**
 - [ ] Spine, Shoulder, Hip CARs x5e
@@ -7303,7 +7303,7 @@
 ## Week 20
 *Originally: Week of December 11, 2023*
 
-### Monday, July 06, 2026 - Day 2, Week 2
+### Monday, August 31, 2026 - Day 2, Week 2
 
 **Warmup:**
 - [ ] CARs Bear Crawl 3 x 5yds Fwd/Bwd GHD Back Extension Iso 3 x :20-30s Walking Lunge 3 x 6ea
@@ -7383,7 +7383,7 @@
 
 ---
 
-### Tuesday, July 07, 2026 - ESD Day 1
+### Tuesday, September 01, 2026 - ESD Day 1
 
 **Warmup:**
 - [ ] CARs
@@ -7418,7 +7418,7 @@
 
 ---
 
-### Wednesday, July 08, 2026 - Day 3, Week 2
+### Wednesday, September 02, 2026 - Day 3, Week 2
 
 **Warmup:**
 - [ ] CARs Goblet Good Morning 3 x 6 HK KB Windmill 3 x 6ea Hollow Hold 3 x :20-30s
@@ -7497,7 +7497,7 @@
 
 ---
 
-### Thursday, July 09, 2026 - ESD Day 2
+### Thursday, September 03, 2026 - ESD Day 2
 
 **Warmup:**
 - [ ] CARs
@@ -7525,7 +7525,7 @@
 
 ---
 
-### Friday, July 10, 2026 - Day 1, Week 3
+### Friday, September 4, 2026 - Day 1, Week 3
 
 **Warmup:**
 - [ ] CARs Dead Stop KB Swing 3 x 10 Tall Plank w/ Alt Limb Reach 3 x 5ea Sled Push 3 x 15yds
@@ -7604,7 +7604,7 @@
 
 ---
 
-### Saturday, July 11, 2026 - ESD Day 3
+### Saturday, September 5, 2026 - ESD Day 3
 
 **Warmup:**
 - [ ] Spine, Shoulder, Hip CARs x5e
@@ -7629,7 +7629,7 @@
 ## Week 21
 *Originally: Week of December 18, 2023*
 
-### Monday, July 13, 2026 - Day 1, Week 4
+### Monday, September 7, 2026 - Day 1, Week 4
 
 **Warmup:**
 - [ ] CARs Dead Stop KB Swing 3 x 10 Tall Plank w/ Alt Limb Reach 3 x 5ea Sled Push 3 x 15yds
@@ -7708,7 +7708,7 @@
 
 ---
 
-### Tuesday, July 14, 2026 - ESD Day 1
+### Tuesday, September 8, 2026 - ESD Day 1
 
 **Warmup:**
 - [ ] CARs
@@ -7743,7 +7743,7 @@
 
 ---
 
-### Wednesday, July 15, 2026 - Day 2, Week 4
+### Wednesday, September 9, 2026 - Day 2, Week 4
 
 **Warmup:**
 - [ ] CARs Bear Crawl 3 x 5yds Fwd/Bwd GHD Back Extension Iso 3 x :20-30s Walking Lunge 3 x 6ea
@@ -7830,7 +7830,7 @@
 
 ---
 
-### Thursday, July 16, 2026 - ESD Day 2
+### Thursday, September 10, 2026 - ESD Day 2
 
 **Warmup:**
 - [ ] CARs
@@ -7858,7 +7858,7 @@
 
 ---
 
-### Friday, July 17, 2026 - Day 3, Week 4
+### Friday, September 11, 2026 - Day 3, Week 4
 
 **Warmup:**
 - [ ] CARs Goblet Good Morning 3 x 6 HK KB Windmill 3 x 6ea Hollow Hold 3 x :20-30s
@@ -7937,7 +7937,7 @@
 
 ---
 
-### Saturday, July 18, 2026 - ESD Day 3
+### Saturday, September 12, 2026 - ESD Day 3
 
 **Warmup:**
 - [ ] Spine, Shoulder, Hip CARs x5e
@@ -7962,7 +7962,7 @@
 ## Week 22
 *Originally: Week of December 25, 2023*
 
-### Monday, July 20, 2026 - Day 1, Week 5
+### Monday, September 14, 2026 - Day 1, Week 5
 
 **Warmup:**
 - [ ] CARs Dead Stop KB Swing 3 x 10 Tall Plank w/ Alt Limb Reach 3 x 5ea Sled Push 3 x 15yds
@@ -8041,7 +8041,7 @@
 
 ---
 
-### Tuesday, July 21, 2026 - ESD Day 1
+### Tuesday, September 15, 2026 - ESD Day 1
 
 **Warmup:**
 - [ ] CARs
@@ -8076,7 +8076,7 @@
 
 ---
 
-### Wednesday, July 22, 2026 - Day 2, Week 5
+### Wednesday, September 16, 2026 - Day 2, Week 5
 
 **Warmup:**
 - [ ] CARs Bear Crawl 3 x 5yds Fwd/Bwd GHD Back Extension Iso 3 x :20-30s Walking Lunge 3 x 6ea
@@ -8163,7 +8163,7 @@
 
 ---
 
-### Thursday, July 23, 2026 - ESD Day 2
+### Thursday, September 17, 2026 - ESD Day 2
 
 **Warmup:**
 - [ ] CARs
@@ -8191,7 +8191,7 @@
 
 ---
 
-### Friday, July 24, 2026 - Day 3, Week 5
+### Friday, September 18, 2026 - Day 3, Week 5
 
 **Warmup:**
 - [ ] CARs Goblet Good Morning 3 x 6 HK KB Windmill 3 x 6ea Hollow Hold 3 x :20-30s
@@ -8270,7 +8270,7 @@
 
 ---
 
-### Saturday, July 25, 2026 - ESD Day 3
+### Saturday, September 19, 2026 - ESD Day 3
 
 **Warmup:**
 - [ ] Spine, Shoulder, Hip CARs x5e
@@ -8295,7 +8295,7 @@
 ## Week 23
 *Originally: Week of January 08, 2024*
 
-### Monday, July 27, 2026 - Timed Sets, Day 1, Week 1
+### Monday, September 21, 2026 - Timed Sets, Day 1, Week 1
 
 **Warmup:**
 - [ ] CARs Split Squat Iso 2 x 0:30 ea Hamstring Bridge Iso 2 x 0:30 Side Plank 2 x 0:30 ea
@@ -8393,7 +8393,7 @@
 
 ---
 
-### Tuesday, July 28, 2026 - Testing A
+### Tuesday, September 22, 2026 - Testing A
 
 **Warmup:**
 - [ ] Only need to perform the following tests ONCE per training block
@@ -8421,7 +8421,7 @@
 
 ---
 
-### Wednesday, July 29, 2026 - 3RM Deadlift
+### Wednesday, September 23, 2026 - 3RM Deadlift
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -8441,7 +8441,7 @@
 
 ---
 
-### Thursday, July 30, 2026 - ESD Day 1, Week 1
+### Thursday, September 24, 2026 - ESD Day 1, Week 1
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -8477,7 +8477,7 @@
 
 ---
 
-### Friday, July 31, 2026 - Timed Sets, Day 2, Week 1
+### Friday, September 25, 2026 - Timed Sets, Day 2, Week 1
 
 **Warmup:**
 - [ ] CARs Wall Sit 2 x 0:30 Active Hang 2 x 0:30 KB Front Rack Hold 2 x 0:30
@@ -8575,7 +8575,7 @@
 
 ---
 
-### Saturday, August 01, 2026 - Testing B
+### Saturday, September 26, 2026 - Testing B
 
 **Warmup:**
 - [ ] Only need to perform the following tests ONCE per training block
@@ -8596,7 +8596,7 @@
 
 ---
 
-### Sunday, August 02, 2026 - 3RM Bench Press
+### Sunday, September 27, 2026 - 3RM Bench Press
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -8616,7 +8616,7 @@
 
 ---
 
-### Monday, August 03, 2026 - ESD Day 2, Week 1
+### Monday, September 28, 2026 - ESD Day 2, Week 1
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -8647,7 +8647,7 @@
 
 ---
 
-### Tuesday, August 04, 2026 - Timed Sets, Day 3, Week 1
+### Tuesday, September 29, 2026 - Timed Sets, Day 3, Week 1
 
 **Warmup:**
 - [ ] CARs Pallof Iso Hold 2 x 0:30 ea SL Spring Ankle Pos. 5 2 x 0:30 ea Crab Hold 2 x 0:30
@@ -8740,7 +8740,7 @@
 
 ---
 
-### Wednesday, August 05, 2026 - Testing C
+### Wednesday, September 30, 2026 - Testing C
 
 **Warmup:**
 - [ ] Only need to perform the following tests ONCE per training block
@@ -8761,7 +8761,7 @@
 
 ---
 
-### Thursday, August 06, 2026 - 3RM Squat
+### Thursday, October 01, 2026 - 3RM Squat
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -8784,7 +8784,7 @@
 ## Week 24
 *Originally: Week of January 15, 2024*
 
-### Monday, August 03, 2026 - Pyramid Sets - Week 1, Day 1
+### Monday, September 28, 2026 - Pyramid Sets - Week 1, Day 1
 
 **Warmup:**
 - [ ] CARs x3-5 each Thermo x2 min/15 cals Reverse Sled Push x20yd Banded Shoulder ER "No Moneys" x10 x2 rounds
@@ -8864,7 +8864,7 @@
 
 ---
 
-### Tuesday, August 04, 2026 - Watt's a challenge?
+### Tuesday, September 29, 2026 - Watt's a challenge?
 
 **Warmup:**
 - [ ] CARs Routine: 3x each Neck Scap Shoulders Elbow Wrists T/S Spine Hip Knee Ankle Toes
@@ -8925,7 +8925,7 @@
 
 ---
 
-### Wednesday, August 05, 2026 - Pyramid Sets - Week 1, Day 2
+### Wednesday, September 30, 2026 - Pyramid Sets - Week 1, Day 2
 
 **Warmup:**
 - [ ] CARs x3-5 each Thermo x2 min/15 cals Scapular pushup x15 Explosive Sled Drive x3ea x2
@@ -9009,7 +9009,7 @@
 
 ---
 
-### Thursday, August 06, 2026 - Down For The Count
+### Thursday, October 01, 2026 - Down For The Count
 
 **Warmup:**
 - [ ] CARs Routine: 3x each Neck Scap Shoulders Elbow Wrists T/S Spine Hip Knee Ankle Toes
@@ -9037,7 +9037,7 @@
 
 ---
 
-### Friday, August 07, 2026 - Pyramid Sets - Week 1, Day 3
+### Friday, October 02, 2026 - Pyramid Sets - Week 1, Day 3
 
 **Warmup:**
 - [ ] CARs x3-5 each Thermo x2 min/15 cals Glute Bridge March x10ea GHD Hip Extension ISO x30s x2
@@ -9124,7 +9124,7 @@
 ## Week 25
 *Originally: Week of January 22, 2024*
 
-### Monday, August 10, 2026 - Pyramid Sets - Week 2, Day 1
+### Monday, October 5, 2026 - Pyramid Sets - Week 2, Day 1
 
 **Warmup:**
 - [ ] CARs x3-5 each Thermo x2 min/15 cals Reverse Sled Push x20yd Banded Shoulder ER "No Moneys" x10 x2 rounds
@@ -9205,7 +9205,7 @@
 
 ---
 
-### Tuesday, August 11, 2026 - Watt's a challenge?
+### Tuesday, October 6, 2026 - Watt's a challenge?
 
 **Warmup:**
 - [ ] CARs Routine: 3x each Neck Scap Shoulders Elbow Wrists T/S Spine Hip Knee Ankle Toes
@@ -9266,7 +9266,7 @@
 
 ---
 
-### Wednesday, August 12, 2026 - Pyramid Sets - Week 2, Day 2
+### Wednesday, October 7, 2026 - Pyramid Sets - Week 2, Day 2
 
 **Warmup:**
 - [ ] CARs x3-5 each Thermo x2 min/15 cals Scapular pushup x15 Explosive Sled Drive x3ea x2
@@ -9351,7 +9351,7 @@
 
 ---
 
-### Thursday, August 13, 2026 - Down For The Count
+### Thursday, October 8, 2026 - Down For The Count
 
 **Warmup:**
 - [ ] CARs Routine: 3x each Neck Scap Shoulders Elbow Wrists T/S Spine Hip Knee Ankle Toes
@@ -9379,7 +9379,7 @@
 
 ---
 
-### Friday, August 14, 2026 - Pyramid Sets - Week 2, Day 3
+### Friday, October 9, 2026 - Pyramid Sets - Week 2, Day 3
 
 **Warmup:**
 - [ ] CARs x3-5 each Thermo x2 min/15 cals Glute Bridge March x10ea GHD Hip Extension ISO x30s x2
@@ -9467,7 +9467,7 @@
 ## Week 26
 *Originally: Week of January 29, 2024*
 
-### Monday, August 17, 2026 - Pyramid Sets - Week 3, Day 1
+### Monday, October 12, 2026 - Pyramid Sets - Week 3, Day 1
 
 **Warmup:**
 - [ ] CARs x3-5 each Thermo x2 min/15 cals Reverse Sled Push x20yd Banded Shoulder ER "No Moneys" x10 x2 rounds
@@ -9548,7 +9548,7 @@
 
 ---
 
-### Tuesday, August 18, 2026 - Watt's a challenge?
+### Tuesday, October 13, 2026 - Watt's a challenge?
 
 **Warmup:**
 - [ ] CARs Routine: 3x each Neck Scap Shoulders Elbow Wrists T/S Spine Hip Knee Ankle Toes
@@ -9609,7 +9609,7 @@
 
 ---
 
-### Wednesday, August 19, 2026 - Pyramid Sets - Week 3, Day 2
+### Wednesday, October 14, 2026 - Pyramid Sets - Week 3, Day 2
 
 **Warmup:**
 - [ ] CARs x3-5 each Thermo x2 min/15 cals Scapular pushup x15 Explosive Sled Drive x3ea x2
@@ -9695,7 +9695,7 @@
 
 ---
 
-### Thursday, August 20, 2026 - Down For The Count
+### Thursday, October 15, 2026 - Down For The Count
 
 **Warmup:**
 - [ ] CARs Routine: 3x each Neck Scap Shoulders Elbow Wrists T/S Spine Hip Knee Ankle Toes
@@ -9723,7 +9723,7 @@
 
 ---
 
-### Friday, August 21, 2026 - Pyramid Sets - Week 3, Day 3
+### Friday, October 16, 2026 - Pyramid Sets - Week 3, Day 3
 
 **Warmup:**
 - [ ] CARs x3-5 each Thermo x2 min/15 cals Glute Bridge March x10ea GHD Hip Extension ISO x30s x2
@@ -9811,7 +9811,7 @@
 ## Week 27
 *Originally: Week of February 05, 2024*
 
-### Monday, August 24, 2026 - Pyramid Sets - Week 4, Day 1
+### Monday, October 19, 2026 - Pyramid Sets - Week 4, Day 1
 
 **Warmup:**
 - [ ] CARs x3-5 each Thermo x2 min/15 cals Reverse Sled Push x20yd Banded Shoulder ER "No Moneys" x10 x2 rounds
@@ -9892,7 +9892,7 @@
 
 ---
 
-### Tuesday, August 25, 2026 - Watt's a challenge?
+### Tuesday, October 20, 2026 - Watt's a challenge?
 
 **Warmup:**
 - [ ] CARs Routine: 3x each Neck Scap Shoulders Elbow Wrists T/S Spine Hip Knee Ankle Toes
@@ -9953,7 +9953,7 @@
 
 ---
 
-### Wednesday, August 26, 2026 - Pyramid Sets - Week 4, Day 2
+### Wednesday, October 21, 2026 - Pyramid Sets - Week 4, Day 2
 
 **Warmup:**
 - [ ] CARs x3-5 each Thermo x2 min/15 cals Scapular pushup x15 Explosive Sled Drive x3ea x2
@@ -10039,7 +10039,7 @@
 
 ---
 
-### Thursday, August 27, 2026 - Down For The Count
+### Thursday, October 22, 2026 - Down For The Count
 
 **Warmup:**
 - [ ] CARs Routine: 3x each Neck Scap Shoulders Elbow Wrists T/S Spine Hip Knee Ankle Toes
@@ -10067,7 +10067,7 @@
 
 ---
 
-### Friday, August 28, 2026 - Pyramid Sets - Week 4, Day 3
+### Friday, October 23, 2026 - Pyramid Sets - Week 4, Day 3
 
 **Warmup:**
 - [ ] CARs x3-5 each Thermo x2 min/15 cals Glute Bridge March x10ea GHD Hip Extension ISO x30s x2
@@ -10156,7 +10156,7 @@
 ## Week 28
 *Originally: Week of February 12, 2024*
 
-### Monday, August 31, 2026 - Pyrmaid Sets - Week 5, Day 1
+### Monday, October 26, 2026 - Pyrmaid Sets - Week 5, Day 1
 
 **Warmup:**
 - [ ] CARs x3-5 each Thermo x2 min/15 cals Reverse Sled Push x20yd Banded Shoulder ER "No Moneys" x10 x2 rounds
@@ -10236,7 +10236,7 @@
 
 ---
 
-### Tuesday, September 01, 2026 - Watt's a challenge?
+### Tuesday, October 27, 2026 - Watt's a challenge?
 
 **Warmup:**
 - [ ] CARs Routine: 3x each Neck Scap Shoulders Elbow Wrists T/S Spine Hip Knee Ankle Toes
@@ -10297,7 +10297,7 @@
 
 ---
 
-### Wednesday, September 02, 2026 - Pyramid Sets - Week 5, Day 2
+### Wednesday, October 28, 2026 - Pyramid Sets - Week 5, Day 2
 
 **Warmup:**
 - [ ] CARs x3-5 each Thermo x2 min/15 cals Scapular pushup x15 Explosive Sled Drive x3ea x2
@@ -10381,7 +10381,7 @@
 
 ---
 
-### Thursday, September 03, 2026 - Down For The Count
+### Thursday, October 29, 2026 - Down For The Count
 
 **Warmup:**
 - [ ] CARs Routine: 3x each Neck Scap Shoulders Elbow Wrists T/S Spine Hip Knee Ankle Toes
@@ -10409,7 +10409,7 @@
 
 ---
 
-### Friday, September 04, 2026 - Pyramid Sets - Week 5, Day 3
+### Friday, October 30, 2026 - Pyramid Sets - Week 5, Day 3
 
 **Warmup:**
 - [ ] CARs x3-5 each Thermo x2 min/15 cals Glute Bridge March x10ea GHD Hip Extension ISO x30s x2
@@ -10496,7 +10496,7 @@
 ## Week 29
 *Originally: Week of February 19, 2024*
 
-### Monday, September 07, 2026 - Descending Pairs - Week 1, Day 1
+### Monday, November 02, 2026 - Descending Pairs - Week 1, Day 1
 
 **Warmup:**
 - [ ] CARs x3-5 each Thermo x2 min/15 cals Split squat ISO 2x30s ea OH squat with dowel 2x10
@@ -10588,7 +10588,7 @@
 
 ---
 
-### Tuesday, September 08, 2026 - Need For Speed
+### Tuesday, November 03, 2026 - Need For Speed
 
 **Warmup:**
 - [ ] CARs Routine: 3x each Neck Scap Shoulders Elbow Wrists T/S Spine Hip Knee Ankle Toes
@@ -10663,7 +10663,7 @@
 
 ---
 
-### Wednesday, September 09, 2026 - Descending Pairs - Week 1, Day 2
+### Wednesday, November 04, 2026 - Descending Pairs - Week 1, Day 2
 
 **Warmup:**
 - [ ] CARs x3-5 each Thermo x2 min/15 cals MB Shotput 2x5ea 3 position pushup ISO x10s ea position
@@ -10758,7 +10758,7 @@
 
 ---
 
-### Thursday, September 10, 2026 - No Rest For The Wicked
+### Thursday, November 5, 2026 - No Rest For The Wicked
 
 **Warmup:**
 - [ ] CARs Routine: 3x each Neck Scap Shoulders Elbow Wrists T/S Spine Hip Knee Ankle Toes
@@ -10807,7 +10807,7 @@
 
 ---
 
-### Friday, September 11, 2026 - Descending Pairs - Week 1, Day 3
+### Friday, November 6, 2026 - Descending Pairs - Week 1, Day 3
 
 **Warmup:**
 - [ ] CARs x3-5 each Thermo x2 min/15 cals Hamstring Tantrum 2x10s Bear Crawl fwd/bwd x10yd ea
@@ -10902,7 +10902,7 @@
 ## Week 30
 *Originally: Week of February 26, 2024*
 
-### Monday, September 14, 2026 - Descending Pairs - Week 2, Day 1
+### Monday, November 9, 2026 - Descending Pairs - Week 2, Day 1
 
 **Warmup:**
 - [ ] CARs x3-5 each Thermo x2 min/15 cals Split squat ISO 2x30s ea OH squat with dowel 2x10
@@ -10994,7 +10994,7 @@
 
 ---
 
-### Tuesday, September 15, 2026 - Need For Speed
+### Tuesday, November 10, 2026 - Need For Speed
 
 **Warmup:**
 - [ ] CARs Routine: 3x each Neck Scap Shoulders Elbow Wrists T/S Spine Hip Knee Ankle Toes
@@ -11069,7 +11069,7 @@
 
 ---
 
-### Wednesday, September 16, 2026 - Descending Pairs - Week 2, Day 2
+### Wednesday, November 11, 2026 - Descending Pairs - Week 2, Day 2
 
 **Warmup:**
 - [ ] CARs x3-5 each Thermo x2 min/15 cals MB Shotput 2x5ea 3 position pushup ISO x10s ea position
@@ -11164,7 +11164,7 @@
 
 ---
 
-### Thursday, September 17, 2026 - No Rest For The Wicked
+### Thursday, November 12, 2026 - No Rest For The Wicked
 
 **Warmup:**
 - [ ] CARs Routine: 3x each Neck Scap Shoulders Elbow Wrists T/S Spine Hip Knee Ankle Toes
@@ -11213,7 +11213,7 @@
 
 ---
 
-### Friday, September 18, 2026 - Descending Pairs - Week 2, Day 3
+### Friday, November 13, 2026 - Descending Pairs - Week 2, Day 3
 
 **Warmup:**
 - [ ] CARs x3-5 each Thermo x2 min/15 cals Hamstring Tantrum 2x10s Bear Crawl fwd/bwd x10yd ea
@@ -11307,7 +11307,7 @@
 ## Week 31
 *Originally: Week of March 04, 2024*
 
-### Monday, September 21, 2026 - Descending Pairs - Week 3, Day 1
+### Monday, November 16, 2026 - Descending Pairs - Week 3, Day 1
 
 **Warmup:**
 - [ ] CARs x3-5 each Thermo x2 min/15 cals Split squat ISO 2x30s ea OH squat with dowel 2x10
@@ -11399,7 +11399,7 @@
 
 ---
 
-### Tuesday, September 22, 2026 - Need For Speed
+### Tuesday, November 17, 2026 - Need For Speed
 
 **Warmup:**
 - [ ] CARs Routine: 3x each Neck Scap Shoulders Elbow Wrists T/S Spine Hip Knee Ankle Toes
@@ -11474,7 +11474,7 @@
 
 ---
 
-### Wednesday, September 23, 2026 - Descending Pairs - Week 3, Day 2
+### Wednesday, November 18, 2026 - Descending Pairs - Week 3, Day 2
 
 **Warmup:**
 - [ ] CARs x3-5 each Thermo x2 min/15 cals MB Shotput 2x5ea 3 position pushup ISO x10s ea position
@@ -11569,7 +11569,7 @@
 
 ---
 
-### Thursday, September 24, 2026 - No Rest For The Wicked
+### Thursday, November 19, 2026 - No Rest For The Wicked
 
 **Warmup:**
 - [ ] CARs Routine: 3x each Neck Scap Shoulders Elbow Wrists T/S Spine Hip Knee Ankle Toes
@@ -11618,7 +11618,7 @@
 
 ---
 
-### Friday, September 25, 2026 - Descending Pairs - Week 3, Day 3
+### Friday, November 20, 2026 - Descending Pairs - Week 3, Day 3
 
 **Warmup:**
 - [ ] CARs x3-5 each Thermo x2 min/15 cals Hamstring Tantrum 2x10s Bear Crawl fwd/bwd x10yd ea
@@ -11713,7 +11713,7 @@
 ## Week 32
 *Originally: Week of March 11, 2024*
 
-### Monday, September 28, 2026 - Descending Pairs - Week 4, Day 1
+### Monday, November 23, 2026 - Descending Pairs - Week 4, Day 1
 
 **Warmup:**
 - [ ] CARs x3-5 each Thermo x2 min/15 cals Split squat ISO 2x30s ea OH squat with dowel 2x10
@@ -11805,7 +11805,7 @@
 
 ---
 
-### Tuesday, September 29, 2026 - Need For Speed
+### Tuesday, November 24, 2026 - Need For Speed
 
 **Warmup:**
 - [ ] CARs Routine: 3x each Neck Scap Shoulders Elbow Wrists T/S Spine Hip Knee Ankle Toes
@@ -11880,7 +11880,7 @@
 
 ---
 
-### Wednesday, September 30, 2026 - Descending Pairs - Week 4, Day 2
+### Wednesday, November 25, 2026 - Descending Pairs - Week 4, Day 2
 
 **Warmup:**
 - [ ] CARs x3-5 each Thermo x2 min/15 cals MB Shotput 2x5ea 3 position pushup ISO x10s ea position
@@ -11975,7 +11975,7 @@
 
 ---
 
-### Thursday, October 01, 2026 - No Rest For The Wicked
+### Thursday, November 26, 2026 - No Rest For The Wicked
 
 **Warmup:**
 - [ ] CARs Routine: 3x each Neck Scap Shoulders Elbow Wrists T/S Spine Hip Knee Ankle Toes
@@ -12024,7 +12024,7 @@
 
 ---
 
-### Friday, October 02, 2026 - Descending Pairs - Week 4, Day 3
+### Friday, November 27, 2026 - Descending Pairs - Week 4, Day 3
 
 **Warmup:**
 - [ ] CARs x3-5 each Thermo x2 min/15 cals Hamstring Tantrum 2x10s Bear Crawl fwd/bwd x10yd ea
@@ -12119,7 +12119,7 @@
 ## Week 33
 *Originally: Week of March 18, 2024*
 
-### Monday, October 05, 2026 - Descending Pairs - Week 5 Day 1
+### Monday, November 30, 2026 - Descending Pairs - Week 5 Day 1
 
 **Warmup:**
 - [ ] CARs x3-5 each Thermo x2 min/15 cals Split squat ISO 2x30s ea OH squat with dowel 2x10
@@ -12209,7 +12209,7 @@
 
 ---
 
-### Tuesday, October 06, 2026 - Need For Speed
+### Tuesday, December 01, 2026 - Need For Speed
 
 **Warmup:**
 - [ ] CARs Routine: 3x each Neck Scap Shoulders Elbow Wrists T/S Spine Hip Knee Ankle Toes
@@ -12284,7 +12284,7 @@
 
 ---
 
-### Wednesday, October 07, 2026 - Descending Pairs - Week 5, Day 2
+### Wednesday, December 02, 2026 - Descending Pairs - Week 5, Day 2
 
 **Warmup:**
 - [ ] CARs x3-5 each Thermo x2 min/15 cals MB Shotput 2x5ea 3 position pushup ISO x10s ea position
@@ -12379,7 +12379,7 @@
 
 ---
 
-### Thursday, October 08, 2026 - No Rest For The Wicked
+### Thursday, December 03, 2026 - No Rest For The Wicked
 
 **Warmup:**
 - [ ] CARs Routine: 3x each Neck Scap Shoulders Elbow Wrists T/S Spine Hip Knee Ankle Toes
@@ -12428,7 +12428,7 @@
 
 ---
 
-### Friday, October 09, 2026 - Descending Pairs - Week 5, Day 3
+### Friday, December 04, 2026 - Descending Pairs - Week 5, Day 3
 
 **Warmup:**
 - [ ] CARs x3-5 each Thermo x2 min/15 cals Hamstring Tantrum 2x10s Bear Crawl fwd/bwd x10yd ea
@@ -12523,7 +12523,7 @@
 ## Week 34
 *Originally: Week of March 25, 2024*
 
-### Monday, October 12, 2026 - Performance Day 1, Week 1
+### Monday, December 7, 2026 - Performance Day 1, Week 1
 
 **Warmup:**
 - [ ] CARs x3-5 each Thermo x2 min/15 cals
@@ -12597,7 +12597,7 @@
 
 ---
 
-### Tuesday, October 13, 2026 - Regen ISOs Day 1, Week 1
+### Tuesday, December 8, 2026 - Regen ISOs Day 1, Week 1
 
 **Warmup:**
 - [ ] CARs x3-5 each Thermo x2 min/15 cals
@@ -12676,7 +12676,7 @@
 
 ---
 
-### Wednesday, October 14, 2026 - Performance Day 2, Week 1
+### Wednesday, December 9, 2026 - Performance Day 2, Week 1
 
 **Warmup:**
 - [ ] CARs x3-5 each Thermo x2 min/15 cals Pushup Iso Hold 2x30s Hamstring Bridge w/ adductor squeeze 2x10ea
@@ -12752,7 +12752,7 @@
 
 ---
 
-### Thursday, October 15, 2026 - Regen ISOs Day 2, Week 1
+### Thursday, December 10, 2026 - Regen ISOs Day 2, Week 1
 
 **Warmup:**
 - [ ] CARs x3-5 each Thermo x2 min/15 cals Pushup Iso Hold 2x30s Hamstring Bridge w/ adductor squeeze 2x10ea
@@ -12832,7 +12832,7 @@
 
 ---
 
-### Friday, October 16, 2026 - Performance Day 3, Week 1
+### Friday, December 11, 2026 - Performance Day 3, Week 1
 
 **Warmup:**
 - [ ] CARs x3-5 each Thermo x2 min/15 cals
@@ -12908,7 +12908,7 @@
 
 ---
 
-### Saturday, October 17, 2026 - Regen ISOs Day 3, Week 1
+### Saturday, December 12, 2026 - Regen ISOs Day 3, Week 1
 
 **Warmup:**
 - [ ] CARs x3-5 each Thermo x2 min/15 cals GHD Back Extension Iso 2x30s
@@ -13017,7 +13017,7 @@
 ## Week 35
 *Originally: Week of April 01, 2024*
 
-### Monday, October 19, 2026 - Performance Day 1, Week 1
+### Monday, December 14, 2026 - Performance Day 1, Week 1
 
 **Warmup:**
 - [ ] CARs x3-5 each Thermo x2 min/15 cals
@@ -13091,7 +13091,7 @@
 
 ---
 
-### Tuesday, October 20, 2026 - Regen ISOs Day 1, Week 1
+### Tuesday, December 15, 2026 - Regen ISOs Day 1, Week 1
 
 **Warmup:**
 - [ ] CARs x3-5 each Thermo x2 min/15 cals
@@ -13170,7 +13170,7 @@
 
 ---
 
-### Wednesday, October 21, 2026 - Performance Day 2, Week 1
+### Wednesday, December 16, 2026 - Performance Day 2, Week 1
 
 **Warmup:**
 - [ ] CARs x3-5 each Thermo x2 min/15 cals Pushup Iso Hold 2x30s Hamstring Bridge w/ adductor squeeze 2x10ea
@@ -13246,7 +13246,7 @@
 
 ---
 
-### Thursday, October 22, 2026 - Regen ISOs Day 2, Week 1
+### Thursday, December 17, 2026 - Regen ISOs Day 2, Week 1
 
 **Warmup:**
 - [ ] CARs x3-5 each Thermo x2 min/15 cals Pushup Iso Hold 2x30s Hamstring Bridge w/ adductor squeeze 2x10ea
@@ -13326,7 +13326,7 @@
 
 ---
 
-### Friday, October 23, 2026 - Performance Day 3, Week 1
+### Friday, December 18, 2026 - Performance Day 3, Week 1
 
 **Warmup:**
 - [ ] CARs x3-5 each Thermo x2 min/15 cals
@@ -13402,7 +13402,7 @@
 
 ---
 
-### Saturday, October 24, 2026 - Regen ISOs Day 3, Week 1
+### Saturday, December 19, 2026 - Regen ISOs Day 3, Week 1
 
 **Warmup:**
 - [ ] CARs x3-5 each Thermo x2 min/15 cals GHD Back Extension Iso 2x30s
@@ -13511,7 +13511,7 @@
 ## Week 36
 *Originally: Week of April 08, 2024*
 
-### Monday, October 26, 2026 - "Send it" Week #1 Day #1
+### Monday, December 21, 2026 - "Send it" Week #1 Day #1
 
 **Warmup:**
 - [ ] Scap CARs Shoulder CARs Thoracic CARs Spine CARs Hip CARs x 3-5 ea **Optional warm up Loaded beast x 5 lateral lunge with rotation x5 ea
@@ -13586,7 +13586,7 @@
 
 ---
 
-### Tuesday, October 27, 2026 - ESD Day #1 "Run it back"
+### Tuesday, December 22, 2026 - ESD Day #1 "Run it back"
 
 **Warmup:**
 - [ ] Thermo: Choose 1 - Perform 2:00
@@ -13624,7 +13624,7 @@
 
 ---
 
-### Wednesday, October 28, 2026 - "Send it" Week #1 Day #2
+### Wednesday, December 23, 2026 - "Send it" Week #1 Day #2
 
 **Warmup:**
 - [ ] Scap CARs Shoulder CARs Thoracic CARs Spine CARs Hip CARs Ankle CARs x 3-5 ea **Optional warm up Adductor rock backs x 5-8ea Quadruped t-spine rotations x 5-8ea
@@ -13696,7 +13696,7 @@
 
 ---
 
-### Thursday, October 29, 2026 - ESD Day #2 "simple but sinister"
+### Thursday, December 24, 2026 - ESD Day #2 "simple but sinister"
 
 **Warmup:**
 - [ ] Thermo: Choose 1 - Perform 2:00
@@ -13760,7 +13760,7 @@
 
 ---
 
-### Friday, October 30, 2026 - "Send it" Week #1 Day #3
+### Friday, December 25, 2026 - "Send it" Week #1 Day #3
 
 **Warmup:**
 - [ ] Scap CARs Shoulder CARs Thoracic CARs Spine CARs Hip CARs Ankle CARs x 3-5 ea **Optional warm up bear crawl x 20yd fwd/bkwd goblet good morning x 10
@@ -13831,7 +13831,7 @@
 ## Week 37
 *Originally: Week of April 15, 2024*
 
-### Monday, November 02, 2026 - "Send it" Week #2 Day #1
+### Monday, December 28, 2026 - "Send it" Week #2 Day #1
 
 **Warmup:**
 - [ ] Scap CARs Shoulder CARs Thoracic CARs Spine CARs Hip CARs x 3-5 ea **Optional warm up Loaded beast x 5 lateral lunge with rotation x5 ea
@@ -13906,7 +13906,7 @@
 
 ---
 
-### Tuesday, November 03, 2026 - ESD Day #1 "Run it back"
+### Tuesday, December 29, 2026 - ESD Day #1 "Run it back"
 
 **Warmup:**
 - [ ] Thermo: Choose 1 - Perform 2:00
@@ -13944,7 +13944,7 @@
 
 ---
 
-### Wednesday, November 04, 2026 - "Send it" Week #2 Day #2
+### Wednesday, December 30, 2026 - "Send it" Week #2 Day #2
 
 **Warmup:**
 - [ ] Scap CARs Shoulder CARs Thoracic CARs Spine CARs Hip CARs Ankle CARs x 3-5 ea **Optional warm up Adductor rock backs x 5-8ea Quadruped t-spine rotations x 5-8ea
@@ -14015,7 +14015,7 @@
 
 ---
 
-### Thursday, November 05, 2026 - ESD Day #2 "simple but sinister"
+### Thursday, December 31, 2026 - ESD Day #2 "simple but sinister"
 
 **Warmup:**
 - [ ] Thermo: Choose 1 - Perform 2:00
@@ -14079,7 +14079,7 @@
 
 ---
 
-### Friday, November 06, 2026 - "Send it" Week #2 Day #3
+### Friday, January 01, 2027 - "Send it" Week #2 Day #3
 
 **Warmup:**
 - [ ] Scap CARs Shoulder CARs Thoracic CARs Spine CARs Hip CARs Ankle CARs x 3-5 ea **Optional warm up bear crawl x 20yd fwd/bkwd goblet good morning x 10
@@ -14150,7 +14150,7 @@
 ## Week 38
 *Originally: Week of April 22, 2024*
 
-### Monday, November 09, 2026 - "Send it" Week #3 Day #1
+### Monday, January 04, 2027 - "Send it" Week #3 Day #1
 
 **Warmup:**
 - [ ] Scap CARs Shoulder CARs Thoracic CARs Spine CARs Hip CARs x 3-5 ea **Optional warm up Loaded beast x 5 lateral lunge with rotation x5 ea
@@ -14225,7 +14225,7 @@
 
 ---
 
-### Tuesday, November 10, 2026 - ESD Day #1 "Run it back"
+### Tuesday, January 5, 2027 - ESD Day #1 "Run it back"
 
 **Warmup:**
 - [ ] Thermo: Choose 1 - Perform 2:00
@@ -14263,7 +14263,7 @@
 
 ---
 
-### Wednesday, November 11, 2026 - "Send it" Week #3 Day #2
+### Wednesday, January 6, 2027 - "Send it" Week #3 Day #2
 
 **Warmup:**
 - [ ] Scap CARs Shoulder CARs Thoracic CARs Spine CARs Hip CARs Ankle CARs x 3-5 ea **Optional warm up Adductor rock backs x 5-8ea Quadruped t-spine rotations x 5-8ea
@@ -14334,7 +14334,7 @@
 
 ---
 
-### Thursday, November 12, 2026 - ESD Day #2 "simple but sinister"
+### Thursday, January 7, 2027 - ESD Day #2 "simple but sinister"
 
 **Warmup:**
 - [ ] Thermo: Choose 1 - Perform 2:00
@@ -14398,7 +14398,7 @@
 
 ---
 
-### Friday, November 13, 2026 - "Send it" Week #3 Day #3
+### Friday, January 8, 2027 - "Send it" Week #3 Day #3
 
 **Warmup:**
 - [ ] Scap CARs Shoulder CARs Thoracic CARs Spine CARs Hip CARs Ankle CARs x 3-5 ea **Optional warm up bear crawl x 20yd fwd/bkwd goblet good morning x 10
@@ -14469,7 +14469,7 @@
 ## Week 39
 *Originally: Week of May 06, 2024*
 
-### Monday, November 16, 2026 - Day 3
+### Monday, January 11, 2027 - Day 3
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -14543,7 +14543,7 @@
 
 ---
 
-### Tuesday, November 17, 2026 - Aerobic Development B
+### Tuesday, January 12, 2027 - Aerobic Development B
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -14571,7 +14571,7 @@
 
 ---
 
-### Wednesday, November 18, 2026 - Day 1
+### Wednesday, January 13, 2027 - Day 1
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -14645,7 +14645,7 @@
 
 ---
 
-### Thursday, November 19, 2026 - Aerobic Development A
+### Thursday, January 14, 2027 - Aerobic Development A
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -14676,7 +14676,7 @@
 
 ---
 
-### Friday, November 20, 2026 - Day 2
+### Friday, January 15, 2027 - Day 2
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -14746,7 +14746,7 @@
 ## Week 40
 *Originally: Week of May 13, 2024*
 
-### Monday, November 23, 2026 - Day 3
+### Monday, January 18, 2027 - Day 3
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -14820,7 +14820,7 @@
 
 ---
 
-### Tuesday, November 24, 2026 - Aerobic Development B
+### Tuesday, January 19, 2027 - Aerobic Development B
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -14848,7 +14848,7 @@
 
 ---
 
-### Wednesday, November 25, 2026 - Day 1
+### Wednesday, January 20, 2027 - Day 1
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -14922,7 +14922,7 @@
 
 ---
 
-### Thursday, November 26, 2026 - Aerobic Development A
+### Thursday, January 21, 2027 - Aerobic Development A
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -14953,7 +14953,7 @@
 
 ---
 
-### Friday, November 27, 2026 - Day 2
+### Friday, January 22, 2027 - Day 2
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -15023,7 +15023,7 @@
 ## Week 41
 *Originally: Week of May 20, 2024*
 
-### Monday, November 30, 2026 - Day 3
+### Monday, January 25, 2027 - Day 3
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -15097,7 +15097,7 @@
 
 ---
 
-### Tuesday, December 01, 2026 - Aerobic Development B
+### Tuesday, January 26, 2027 - Aerobic Development B
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -15125,7 +15125,7 @@
 
 ---
 
-### Wednesday, December 02, 2026 - Day 1
+### Wednesday, January 27, 2027 - Day 1
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -15199,7 +15199,7 @@
 
 ---
 
-### Thursday, December 03, 2026 - Aerobic Development A
+### Thursday, January 28, 2027 - Aerobic Development A
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -15230,7 +15230,7 @@
 
 ---
 
-### Friday, December 04, 2026 - Day 2
+### Friday, January 29, 2027 - Day 2
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -15300,7 +15300,7 @@
 ## Week 42
 *Originally: Week of June 03, 2024*
 
-### Monday, December 07, 2026 - Day 3
+### Monday, February 01, 2027 - Day 3
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -15374,7 +15374,7 @@
 
 ---
 
-### Tuesday, December 08, 2026 - Aerobic Development B
+### Tuesday, February 02, 2027 - Aerobic Development B
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -15402,7 +15402,7 @@
 
 ---
 
-### Wednesday, December 09, 2026 - Day 1
+### Wednesday, February 03, 2027 - Day 1
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -15476,7 +15476,7 @@
 
 ---
 
-### Thursday, December 10, 2026 - Aerobic Development A
+### Thursday, February 4, 2027 - Aerobic Development A
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -15507,7 +15507,7 @@
 
 ---
 
-### Friday, December 11, 2026 - Day 2
+### Friday, February 5, 2027 - Day 2
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -15577,7 +15577,7 @@
 ## Week 43
 *Originally: Week of June 10, 2024*
 
-### Monday, December 14, 2026 - Day 3
+### Monday, February 8, 2027 - Day 3
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -15651,7 +15651,7 @@
 
 ---
 
-### Tuesday, December 15, 2026 - Aerobic Development B
+### Tuesday, February 9, 2027 - Aerobic Development B
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -15679,7 +15679,7 @@
 
 ---
 
-### Wednesday, December 16, 2026 - Day 1
+### Wednesday, February 10, 2027 - Day 1
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -15753,7 +15753,7 @@
 
 ---
 
-### Thursday, December 17, 2026 - Aerobic Development A
+### Thursday, February 11, 2027 - Aerobic Development A
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -15784,7 +15784,7 @@
 
 ---
 
-### Friday, December 18, 2026 - Day 2
+### Friday, February 12, 2027 - Day 2
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -15854,7 +15854,7 @@
 ## Week 44
 *Originally: Week of June 17, 2024*
 
-### Monday, December 21, 2026 - Day 1
+### Monday, February 15, 2027 - Day 1
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -15940,7 +15940,7 @@
 
 ---
 
-### Tuesday, December 22, 2026 - Aerobic Development A
+### Tuesday, February 16, 2027 - Aerobic Development A
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -15968,7 +15968,7 @@
 
 ---
 
-### Wednesday, December 23, 2026 - Day 2
+### Wednesday, February 17, 2027 - Day 2
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -16055,7 +16055,7 @@
 
 ---
 
-### Thursday, December 24, 2026 - Aerobic Development B
+### Thursday, February 18, 2027 - Aerobic Development B
 
 **Warmup:**
 - [ ] Spine, Shoulder, Hip CARs x5e
@@ -16129,7 +16129,7 @@
 
 ---
 
-### Friday, December 25, 2026 - Day 3
+### Friday, February 19, 2027 - Day 3
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -16205,7 +16205,7 @@
 ## Week 45
 *Originally: Week of June 24, 2024*
 
-### Monday, December 28, 2026 - Day 1
+### Monday, February 22, 2027 - Day 1
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -16291,7 +16291,7 @@
 
 ---
 
-### Tuesday, December 29, 2026 - Aerobic Development B
+### Tuesday, February 23, 2027 - Aerobic Development B
 
 **Warmup:**
 - [ ] Spine, Shoulder, Hip CARs x5e
@@ -16365,7 +16365,7 @@
 
 ---
 
-### Wednesday, December 30, 2026 - Day 2
+### Wednesday, February 24, 2027 - Day 2
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -16452,7 +16452,7 @@
 
 ---
 
-### Thursday, December 31, 2026 - Aerobic Development A
+### Thursday, February 25, 2027 - Aerobic Development A
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -16480,7 +16480,7 @@
 
 ---
 
-### Friday, January 01, 2027 - Day 3
+### Friday, February 26, 2027 - Day 3
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -16556,7 +16556,7 @@
 ## Week 46
 *Originally: Week of July 01, 2024*
 
-### Monday, January 04, 2027 - Day 1
+### Monday, March 01, 2027 - Day 1
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -16642,7 +16642,7 @@
 
 ---
 
-### Tuesday, January 05, 2027 - Aerobic Development B
+### Tuesday, March 02, 2027 - Aerobic Development B
 
 **Warmup:**
 - [ ] Spine, Shoulder, Hip CARs x5e
@@ -16716,7 +16716,7 @@
 
 ---
 
-### Wednesday, January 06, 2027 - Day 2
+### Wednesday, March 03, 2027 - Day 2
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -16803,7 +16803,7 @@
 
 ---
 
-### Thursday, January 07, 2027 - Aerobic Development A
+### Thursday, March 04, 2027 - Aerobic Development A
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -16831,7 +16831,7 @@
 
 ---
 
-### Friday, January 08, 2027 - Day 3
+### Friday, March 05, 2027 - Day 3
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -16907,7 +16907,7 @@
 ## Week 47
 *Originally: Week of July 08, 2024*
 
-### Monday, January 11, 2027 - Day 1
+### Monday, March 8, 2027 - Day 1
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -16993,7 +16993,7 @@
 
 ---
 
-### Tuesday, January 12, 2027 - Aerobic Development B
+### Tuesday, March 9, 2027 - Aerobic Development B
 
 **Warmup:**
 - [ ] Spine, Shoulder, Hip CARs x5e
@@ -17067,7 +17067,7 @@
 
 ---
 
-### Wednesday, January 13, 2027 - Day 2
+### Wednesday, March 10, 2027 - Day 2
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -17154,7 +17154,7 @@
 
 ---
 
-### Thursday, January 14, 2027 - Aerobic Development A
+### Thursday, March 11, 2027 - Aerobic Development A
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -17182,7 +17182,7 @@
 
 ---
 
-### Friday, January 15, 2027 - Day 3
+### Friday, March 12, 2027 - Day 3
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -17258,7 +17258,7 @@
 ## Week 48
 *Originally: Week of July 15, 2024*
 
-### Monday, January 18, 2027 - Day 3
+### Monday, March 15, 2027 - Day 3
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -17340,7 +17340,7 @@
 
 ---
 
-### Tuesday, January 19, 2027 - ESD A
+### Tuesday, March 16, 2027 - ESD A
 
 **Warmup:**
 - [ ] Spine, Shoulder, Hip CARs x5e
@@ -17451,7 +17451,7 @@
 
 ---
 
-### Wednesday, January 20, 2027 - Day 1
+### Wednesday, March 17, 2027 - Day 1
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -17535,7 +17535,7 @@
 
 ---
 
-### Thursday, January 21, 2027 - Aerobic Development
+### Thursday, March 18, 2027 - Aerobic Development
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -17615,7 +17615,7 @@
 
 ---
 
-### Friday, January 22, 2027 - Day 2
+### Friday, March 19, 2027 - Day 2
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -17689,7 +17689,7 @@
 ## Week 49
 *Originally: Week of July 22, 2024*
 
-### Monday, January 25, 2027 - Day 3
+### Monday, March 22, 2027 - Day 3
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -17771,7 +17771,7 @@
 
 ---
 
-### Tuesday, January 26, 2027 - ESD A
+### Tuesday, March 23, 2027 - ESD A
 
 **Warmup:**
 - [ ] Spine, Shoulder, Hip CARs x5e
@@ -17882,7 +17882,7 @@
 
 ---
 
-### Wednesday, January 27, 2027 - Day 1
+### Wednesday, March 24, 2027 - Day 1
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -17966,7 +17966,7 @@
 
 ---
 
-### Thursday, January 28, 2027 - Aerobic Development
+### Thursday, March 25, 2027 - Aerobic Development
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -18046,7 +18046,7 @@
 
 ---
 
-### Friday, January 29, 2027 - Day 2
+### Friday, March 26, 2027 - Day 2
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -18120,7 +18120,7 @@
 ## Week 50
 *Originally: Week of July 29, 2024*
 
-### Monday, February 01, 2027 - Day 2
+### Monday, March 29, 2027 - Day 2
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -18191,7 +18191,7 @@
 
 ---
 
-### Tuesday, February 02, 2027 - ESD A
+### Tuesday, March 30, 2027 - ESD A
 
 **Warmup:**
 - [ ] Spine, Shoulder, Hip CARs x5e
@@ -18302,7 +18302,7 @@
 
 ---
 
-### Wednesday, February 03, 2027 - Day 3
+### Wednesday, March 31, 2027 - Day 3
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -18384,7 +18384,7 @@
 
 ---
 
-### Thursday, February 04, 2027 - Aerobic Development
+### Thursday, April 01, 2027 - Aerobic Development
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -18464,7 +18464,7 @@
 
 ---
 
-### Friday, February 05, 2027 - Day 1
+### Friday, April 02, 2027 - Day 1
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -18551,7 +18551,7 @@
 ## Week 51
 *Originally: Week of August 05, 2024*
 
-### Monday, February 08, 2027 - Day 2
+### Monday, April 05, 2027 - Day 2
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -18622,7 +18622,7 @@
 
 ---
 
-### Tuesday, February 09, 2027 - ESD A
+### Tuesday, April 06, 2027 - ESD A
 
 **Warmup:**
 - [ ] Spine, Shoulder, Hip CARs x5e
@@ -18733,7 +18733,7 @@
 
 ---
 
-### Wednesday, February 10, 2027 - Day 3
+### Wednesday, April 7, 2027 - Day 3
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -18815,7 +18815,7 @@
 
 ---
 
-### Thursday, February 11, 2027 - Aerobic Development
+### Thursday, April 8, 2027 - Aerobic Development
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -18895,7 +18895,7 @@
 
 ---
 
-### Friday, February 12, 2027 - Day 1
+### Friday, April 9, 2027 - Day 1
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -18982,7 +18982,7 @@
 ## Week 52
 *Originally: Week of August 12, 2024*
 
-### Monday, February 15, 2027 - Day 3
+### Monday, April 12, 2027 - Day 3
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -19064,7 +19064,7 @@
 
 ---
 
-### Tuesday, February 16, 2027 - ESD A
+### Tuesday, April 13, 2027 - ESD A
 
 **Warmup:**
 - [ ] Spine, Shoulder, Hip CARs x5e
@@ -19175,7 +19175,7 @@
 
 ---
 
-### Wednesday, February 17, 2027 - Day 2
+### Wednesday, April 14, 2027 - Day 2
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -19246,7 +19246,7 @@
 
 ---
 
-### Thursday, February 18, 2027 - Aerobic Development
+### Thursday, April 15, 2027 - Aerobic Development
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -19326,7 +19326,7 @@
 
 ---
 
-### Friday, February 19, 2027 - Day 1
+### Friday, April 16, 2027 - Day 1
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -19413,7 +19413,7 @@
 ## Week 53
 *Originally: Week of August 19, 2024*
 
-### Monday, February 22, 2027 - Wave Loading - Day 1, Week 1
+### Monday, April 19, 2027 - Wave Loading - Day 1, Week 1
 
 **Warmup:**
 - [ ] CARs x 3-5ea Supine Leg Crossover x 5ea 1/2 TGU x 3ea x2
@@ -19493,7 +19493,7 @@
 
 ---
 
-### Tuesday, February 23, 2027 - ESD - Aerobic Power Intervals
+### Tuesday, April 20, 2027 - ESD - Aerobic Power Intervals
 
 **Warmup:**
 - [ ] Spine, Shoulder, Hip CARs x5e
@@ -19508,7 +19508,7 @@
 
 ---
 
-### Wednesday, February 24, 2027 - Wave Loading - Day 2, Week 1
+### Wednesday, April 21, 2027 - Wave Loading - Day 2, Week 1
 
 **Warmup:**
 - [ ] CARs x 3-5ea High Plank to Down Dog x 8 1/2 TGD x 3ea x2
@@ -19586,7 +19586,7 @@
 
 ---
 
-### Thursday, February 25, 2027 - ESD - Chipper
+### Thursday, April 22, 2027 - ESD - Chipper
 
 **Warmup:**
 - [ ] Spine, Shoulder, Hip CARs x5e
@@ -19693,7 +19693,7 @@
 
 ---
 
-### Friday, February 26, 2027 - Wave Loading - Day 3, Week 1
+### Friday, April 23, 2027 - Wave Loading - Day 3, Week 1
 
 **Warmup:**
 - [ ] CARs x 3-5ea Lateral Beast Walk x 5ea Lateral Step Up x 5ea x2
@@ -19776,7 +19776,7 @@
 
 ---
 
-### Saturday, February 27, 2027 - ESD - Cardiac Output
+### Saturday, April 24, 2027 - ESD - Cardiac Output
 
 **Warmup:**
 - [ ] Spine, Shoulder, Hip CARs x5e
@@ -19798,7 +19798,7 @@
 
 ---
 
-### Sunday, February 28, 2027 - Rest Day
+### Sunday, April 25, 2027 - Rest Day
 
 
 ---
@@ -19806,7 +19806,7 @@
 ## Week 54
 *Originally: Week of August 26, 2024*
 
-### Monday, March 01, 2027 - Wave Loading - Day 1, Week 2
+### Monday, April 26, 2027 - Wave Loading - Day 1, Week 2
 
 **Warmup:**
 - [ ] CARs x 3-5ea Supine Leg Crossover x 5ea 1/2 TGU x 3ea x2
@@ -19886,7 +19886,7 @@
 
 ---
 
-### Tuesday, March 02, 2027 - ESD - Aerobic Power Intervals
+### Tuesday, April 27, 2027 - ESD - Aerobic Power Intervals
 
 **Warmup:**
 - [ ] Spine, Shoulder, Hip CARs x5e
@@ -19901,7 +19901,7 @@
 
 ---
 
-### Wednesday, March 03, 2027 - Wave Loading - Day 2, Week 2
+### Wednesday, April 28, 2027 - Wave Loading - Day 2, Week 2
 
 **Warmup:**
 - [ ] CARs x 3-5ea High Plank to Down Dog x 8 1/2 TGD x 3ea x2
@@ -19979,7 +19979,7 @@
 
 ---
 
-### Thursday, March 04, 2027 - ESD - Chipper
+### Thursday, April 29, 2027 - ESD - Chipper
 
 **Warmup:**
 - [ ] Spine, Shoulder, Hip CARs x5e
@@ -20086,7 +20086,7 @@
 
 ---
 
-### Friday, March 05, 2027 - Wave Loading - Day 3, Week 2
+### Friday, April 30, 2027 - Wave Loading - Day 3, Week 2
 
 **Warmup:**
 - [ ] CARs x 3-5ea Lateral Beast Walk x 5ea Lateral Step Up x 5ea x2
@@ -20169,7 +20169,7 @@
 
 ---
 
-### Saturday, March 06, 2027 - ESD - Cardiac Output
+### Saturday, May 01, 2027 - ESD - Cardiac Output
 
 **Warmup:**
 - [ ] Spine, Shoulder, Hip CARs x5e
@@ -20194,7 +20194,7 @@
 ## Week 55
 *Originally: Week of September 02, 2024*
 
-### Monday, March 08, 2027 - Wave Loading - Day 1, Week 3
+### Monday, May 03, 2027 - Wave Loading - Day 1, Week 3
 
 **Warmup:**
 - [ ] CARs x 3-5ea Supine Leg Crossover x 5ea 1/2 TGU x 3ea x2
@@ -20274,7 +20274,7 @@
 
 ---
 
-### Tuesday, March 09, 2027 - ESD - Aerobic Power Intervals
+### Tuesday, May 04, 2027 - ESD - Aerobic Power Intervals
 
 **Warmup:**
 - [ ] Spine, Shoulder, Hip CARs x5e
@@ -20289,7 +20289,7 @@
 
 ---
 
-### Wednesday, March 10, 2027 - Wave Loading - Day 2, Week 3
+### Wednesday, May 5, 2027 - Wave Loading - Day 2, Week 3
 
 **Warmup:**
 - [ ] CARs x 3-5ea High Plank to Down Dog x 8 1/2 TGD x 3ea x2
@@ -20367,7 +20367,7 @@
 
 ---
 
-### Thursday, March 11, 2027 - ESD - Chipper
+### Thursday, May 6, 2027 - ESD - Chipper
 
 **Warmup:**
 - [ ] Spine, Shoulder, Hip CARs x5e
@@ -20474,7 +20474,7 @@
 
 ---
 
-### Friday, March 12, 2027 - Wave Loading - Day 3, Week 3
+### Friday, May 7, 2027 - Wave Loading - Day 3, Week 3
 
 **Warmup:**
 - [ ] CARs x 3-5ea Lateral Beast Walk x 5ea Lateral Step Up x 5ea x2
@@ -20557,7 +20557,7 @@
 
 ---
 
-### Saturday, March 13, 2027 - ESD - Cardiac Output
+### Saturday, May 8, 2027 - ESD - Cardiac Output
 
 **Warmup:**
 - [ ] Spine, Shoulder, Hip CARs x5e
@@ -20582,7 +20582,7 @@
 ## Week 56
 *Originally: Week of September 09, 2024*
 
-### Monday, March 15, 2027 - Wave Loading - Day 1, Week 4
+### Monday, May 10, 2027 - Wave Loading - Day 1, Week 4
 
 **Warmup:**
 - [ ] CARs x 3-5ea Supine Leg Crossover x 5ea 1/2 TGU x 3ea x2
@@ -20662,7 +20662,7 @@
 
 ---
 
-### Tuesday, March 16, 2027 - ESD - Aerobic Power Intervals
+### Tuesday, May 11, 2027 - ESD - Aerobic Power Intervals
 
 **Warmup:**
 - [ ] Spine, Shoulder, Hip CARs x5e
@@ -20677,7 +20677,7 @@
 
 ---
 
-### Wednesday, March 17, 2027 - Wave Loading - Day 2, Week 4
+### Wednesday, May 12, 2027 - Wave Loading - Day 2, Week 4
 
 **Warmup:**
 - [ ] CARs x 3-5ea High Plank to Down Dog x 8 1/2 TGD x 3ea x2
@@ -20755,7 +20755,7 @@
 
 ---
 
-### Thursday, March 18, 2027 - ESD - Chipper
+### Thursday, May 13, 2027 - ESD - Chipper
 
 **Warmup:**
 - [ ] Spine, Shoulder, Hip CARs x5e
@@ -20862,7 +20862,7 @@
 
 ---
 
-### Friday, March 19, 2027 - Wave Loading - Day 3, Week 4
+### Friday, May 14, 2027 - Wave Loading - Day 3, Week 4
 
 **Warmup:**
 - [ ] CARs x 3-5ea Lateral Beast Walk x 5ea Lateral Step Up x 5ea x2
@@ -20945,7 +20945,7 @@
 
 ---
 
-### Saturday, March 20, 2027 - ESD - Cardiac Output
+### Saturday, May 15, 2027 - ESD - Cardiac Output
 
 **Warmup:**
 - [ ] Spine, Shoulder, Hip CARs x5e
@@ -20970,7 +20970,7 @@
 ## Week 57
 *Originally: Week of September 16, 2024*
 
-### Monday, March 22, 2027 - Wave Loading - Day 1, Week 5
+### Monday, May 17, 2027 - Wave Loading - Day 1, Week 5
 
 **Warmup:**
 - [ ] CARs x 3-5ea Supine Leg Crossover x 5ea 1/2 TGU x 3ea x2
@@ -21050,7 +21050,7 @@
 
 ---
 
-### Tuesday, March 23, 2027 - ESD - Aerobic Power Intervals
+### Tuesday, May 18, 2027 - ESD - Aerobic Power Intervals
 
 **Warmup:**
 - [ ] Spine, Shoulder, Hip CARs x5e
@@ -21065,7 +21065,7 @@
 
 ---
 
-### Wednesday, March 24, 2027 - Wave Loading - Day 2, Week 5
+### Wednesday, May 19, 2027 - Wave Loading - Day 2, Week 5
 
 **Warmup:**
 - [ ] CARs x 3-5ea High Plank to Down Dog x 8 1/2 TGD x 3ea x2
@@ -21143,7 +21143,7 @@
 
 ---
 
-### Thursday, March 25, 2027 - ESD - Chipper
+### Thursday, May 20, 2027 - ESD - Chipper
 
 **Warmup:**
 - [ ] Spine, Shoulder, Hip CARs x5e
@@ -21250,7 +21250,7 @@
 
 ---
 
-### Friday, March 26, 2027 - Wave Loading - Day 3, Week 5
+### Friday, May 21, 2027 - Wave Loading - Day 3, Week 5
 
 **Warmup:**
 - [ ] CARs x 3-5ea Lateral Beast Walk x 5ea Lateral Step Up x 5ea x2
@@ -21336,7 +21336,7 @@
 ## Week 58
 *Originally: Week of September 23, 2024*
 
-### Monday, March 29, 2027 - Pre Fatigue - Day 3, Week 1
+### Monday, May 24, 2027 - Pre Fatigue - Day 3, Week 1
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -21422,7 +21422,7 @@
 
 ---
 
-### Tuesday, March 30, 2027 - ESD Day 1
+### Tuesday, May 25, 2027 - ESD Day 1
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -21481,7 +21481,7 @@
 
 ---
 
-### Wednesday, March 31, 2027 - Pre Fatigue - Day 2, Week 1
+### Wednesday, May 26, 2027 - Pre Fatigue - Day 2, Week 1
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -21573,7 +21573,7 @@
 
 ---
 
-### Thursday, April 01, 2027 - ESD Day 2
+### Thursday, May 27, 2027 - ESD Day 2
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -21605,7 +21605,7 @@
 
 ---
 
-### Friday, April 02, 2027 - Pre Fatigue - Day 1, Week 1
+### Friday, May 28, 2027 - Pre Fatigue - Day 1, Week 1
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -21697,7 +21697,7 @@
 ## Week 59
 *Originally: Week of September 30, 2024*
 
-### Monday, April 05, 2027 - Pre Fatigue - Day 3, Week 2
+### Monday, May 31, 2027 - Pre Fatigue - Day 3, Week 2
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -21783,7 +21783,7 @@
 
 ---
 
-### Tuesday, April 06, 2027 - ESD Day 1
+### Tuesday, June 01, 2027 - ESD Day 1
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -21842,7 +21842,7 @@
 
 ---
 
-### Wednesday, April 07, 2027 - Pre Fatigue - Day 2, Week 2
+### Wednesday, June 02, 2027 - Pre Fatigue - Day 2, Week 2
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -21934,7 +21934,7 @@
 
 ---
 
-### Thursday, April 08, 2027 - ESD Day 2
+### Thursday, June 03, 2027 - ESD Day 2
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -21966,7 +21966,7 @@
 
 ---
 
-### Friday, April 09, 2027 - Pre Fatigue - Day 1, Week 2
+### Friday, June 04, 2027 - Pre Fatigue - Day 1, Week 2
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -22058,7 +22058,7 @@
 ## Week 60
 *Originally: Week of October 07, 2024*
 
-### Monday, April 12, 2027 - Pre Fatigue - Day 3, Week 3
+### Monday, June 7, 2027 - Pre Fatigue - Day 3, Week 3
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -22144,7 +22144,7 @@
 
 ---
 
-### Tuesday, April 13, 2027 - ESD Day 1
+### Tuesday, June 8, 2027 - ESD Day 1
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -22203,7 +22203,7 @@
 
 ---
 
-### Wednesday, April 14, 2027 - Pre Fatigue - Day 2, Week 3
+### Wednesday, June 9, 2027 - Pre Fatigue - Day 2, Week 3
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -22295,7 +22295,7 @@
 
 ---
 
-### Thursday, April 15, 2027 - ESD Day 2
+### Thursday, June 10, 2027 - ESD Day 2
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -22327,7 +22327,7 @@
 
 ---
 
-### Friday, April 16, 2027 - Pre Fatigue - Day 1, Week 3
+### Friday, June 11, 2027 - Pre Fatigue - Day 1, Week 3
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -22419,7 +22419,7 @@
 ## Week 61
 *Originally: Week of October 14, 2024*
 
-### Monday, April 19, 2027 - Pre Fatigue - Day 3, Week 4
+### Monday, June 14, 2027 - Pre Fatigue - Day 3, Week 4
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -22508,7 +22508,7 @@
 
 ---
 
-### Tuesday, April 20, 2027 - ESD Day 1
+### Tuesday, June 15, 2027 - ESD Day 1
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -22567,7 +22567,7 @@
 
 ---
 
-### Wednesday, April 21, 2027 - Pre Fatigue - Day 2, Week 4
+### Wednesday, June 16, 2027 - Pre Fatigue - Day 2, Week 4
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -22662,7 +22662,7 @@
 
 ---
 
-### Thursday, April 22, 2027 - ESD Day 2
+### Thursday, June 17, 2027 - ESD Day 2
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -22694,7 +22694,7 @@
 
 ---
 
-### Friday, April 23, 2027 - Pre Fatigue - Day 1, Week 4
+### Friday, June 18, 2027 - Pre Fatigue - Day 1, Week 4
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -22789,7 +22789,7 @@
 ## Week 62
 *Originally: Week of October 21, 2024*
 
-### Monday, April 26, 2027 - Pre Fatigue - Day 3, Week 5
+### Monday, June 21, 2027 - Pre Fatigue - Day 3, Week 5
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -22878,7 +22878,7 @@
 
 ---
 
-### Tuesday, April 27, 2027 - ESD Day 1
+### Tuesday, June 22, 2027 - ESD Day 1
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -22937,7 +22937,7 @@
 
 ---
 
-### Wednesday, April 28, 2027 - Pre Fatigue - Day 2, Week 5
+### Wednesday, June 23, 2027 - Pre Fatigue - Day 2, Week 5
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -23032,7 +23032,7 @@
 
 ---
 
-### Thursday, April 29, 2027 - ESD Day 2
+### Thursday, June 24, 2027 - ESD Day 2
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -23064,7 +23064,7 @@
 
 ---
 
-### Friday, April 30, 2027 - Pre Fatigue - Day 1, Week 5
+### Friday, June 25, 2027 - Pre Fatigue - Day 1, Week 5
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -23159,7 +23159,7 @@
 ## Week 63
 *Originally: Week of October 28, 2024*
 
-### Monday, May 03, 2027 - Modified 1+6 - Day 1, Week 1
+### Monday, June 28, 2027 - Modified 1+6 - Day 1, Week 1
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -23244,7 +23244,7 @@
 
 ---
 
-### Tuesday, May 04, 2027 - ESD Day 1
+### Tuesday, June 29, 2027 - ESD Day 1
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -23304,7 +23304,7 @@
 
 ---
 
-### Wednesday, May 05, 2027 - Modified 1+6 - Day 2, Week 1
+### Wednesday, June 30, 2027 - Modified 1+6 - Day 2, Week 1
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -23391,7 +23391,7 @@
 
 ---
 
-### Thursday, May 06, 2027 - ESD Day 2
+### Thursday, July 01, 2027 - ESD Day 2
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -23537,7 +23537,7 @@
 
 ---
 
-### Friday, May 07, 2027 - Modified 1+6 - Day 3, Week 1
+### Friday, July 02, 2027 - Modified 1+6 - Day 3, Week 1
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -23626,7 +23626,7 @@
 ## Week 64
 *Originally: Week of November 04, 2024*
 
-### Monday, May 10, 2027 - Modified 1+6 - Day 1, Week 2
+### Monday, July 5, 2027 - Modified 1+6 - Day 1, Week 2
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -23710,7 +23710,7 @@
 
 ---
 
-### Tuesday, May 11, 2027 - ESD Day 1
+### Tuesday, July 6, 2027 - ESD Day 1
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -23770,7 +23770,7 @@
 
 ---
 
-### Wednesday, May 12, 2027 - Modified 1+6 - Day 2, Week 2
+### Wednesday, July 7, 2027 - Modified 1+6 - Day 2, Week 2
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -23856,7 +23856,7 @@
 
 ---
 
-### Thursday, May 13, 2027 - ESD Day 2
+### Thursday, July 8, 2027 - ESD Day 2
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -24002,7 +24002,7 @@
 
 ---
 
-### Friday, May 14, 2027 - Modified 1+6 - Day 3, Week 2
+### Friday, July 9, 2027 - Modified 1+6 - Day 3, Week 2
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -24090,7 +24090,7 @@
 ## Week 65
 *Originally: Week of November 11, 2024*
 
-### Monday, May 17, 2027 - Modified 1+6 - Day 1, Week 3
+### Monday, July 12, 2027 - Modified 1+6 - Day 1, Week 3
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -24174,7 +24174,7 @@
 
 ---
 
-### Tuesday, May 18, 2027 - ESD Day 1
+### Tuesday, July 13, 2027 - ESD Day 1
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -24234,7 +24234,7 @@
 
 ---
 
-### Wednesday, May 19, 2027 - Modified 1+6 - Day 2, Week 3
+### Wednesday, July 14, 2027 - Modified 1+6 - Day 2, Week 3
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -24320,7 +24320,7 @@
 
 ---
 
-### Thursday, May 20, 2027 - ESD Day 2
+### Thursday, July 15, 2027 - ESD Day 2
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -24466,7 +24466,7 @@
 
 ---
 
-### Friday, May 21, 2027 - Modified 1+6 - Day 3, Week 3
+### Friday, July 16, 2027 - Modified 1+6 - Day 3, Week 3
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -24554,7 +24554,7 @@
 ## Week 66
 *Originally: Week of November 18, 2024*
 
-### Monday, May 24, 2027 - Modified 1+6 - Day 1, Week 4
+### Monday, July 19, 2027 - Modified 1+6 - Day 1, Week 4
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -24638,7 +24638,7 @@
 
 ---
 
-### Tuesday, May 25, 2027 - ESD Day 1
+### Tuesday, July 20, 2027 - ESD Day 1
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -24698,7 +24698,7 @@
 
 ---
 
-### Wednesday, May 26, 2027 - Modified 1+6 - Day 2, Week 4
+### Wednesday, July 21, 2027 - Modified 1+6 - Day 2, Week 4
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -24784,7 +24784,7 @@
 
 ---
 
-### Thursday, May 27, 2027 - ESD Day 2
+### Thursday, July 22, 2027 - ESD Day 2
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -24930,7 +24930,7 @@
 
 ---
 
-### Friday, May 28, 2027 - Modified 1+6 - Day 3, Week 4
+### Friday, July 23, 2027 - Modified 1+6 - Day 3, Week 4
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -25018,7 +25018,7 @@
 ## Week 67
 *Originally: Week of November 25, 2024*
 
-### Monday, May 31, 2027 - Modified 1+6 - Day 1, Week 5
+### Monday, July 26, 2027 - Modified 1+6 - Day 1, Week 5
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -25102,7 +25102,7 @@
 
 ---
 
-### Tuesday, June 01, 2027 - ESD Day 1
+### Tuesday, July 27, 2027 - ESD Day 1
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -25162,7 +25162,7 @@
 
 ---
 
-### Wednesday, June 02, 2027 - Modified 1+6 - Day 2, Week 5
+### Wednesday, July 28, 2027 - Modified 1+6 - Day 2, Week 5
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -25248,7 +25248,7 @@
 
 ---
 
-### Thursday, June 03, 2027 - ESD Day 2
+### Thursday, July 29, 2027 - ESD Day 2
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -25394,7 +25394,7 @@
 
 ---
 
-### Friday, June 04, 2027 - Modified 1+6 - Day 3, Week 5
+### Friday, July 30, 2027 - Modified 1+6 - Day 3, Week 5
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -25482,7 +25482,7 @@
 ## Week 68
 *Originally: Week of December 02, 2024*
 
-### Monday, June 07, 2027 - Performance Day 1, Week 1
+### Monday, August 02, 2027 - Performance Day 1, Week 1
 
 **Warmup:**
 - [ ] CARs x3-5 each Thermo x2 min/15 cals
@@ -25566,7 +25566,7 @@
 
 ---
 
-### Tuesday, June 08, 2027 - Regen Day 1, Week 1
+### Tuesday, August 03, 2027 - Regen Day 1, Week 1
 
 **Warmup:**
 - [ ] CARs x3-5 each
@@ -25697,7 +25697,7 @@
 
 ---
 
-### Wednesday, June 09, 2027 - Performance Day 2, Week 1
+### Wednesday, August 04, 2027 - Performance Day 2, Week 1
 
 **Warmup:**
 - [ ] CARs x3-5 each Thermo x2 min/15 cals Pushup Iso Hold 2x30s Hamstring Bridge w/ adductor squeeze 2x10ea
@@ -25776,7 +25776,7 @@
 
 ---
 
-### Thursday, June 10, 2027 - Regen Day 2, Week 1
+### Thursday, August 5, 2027 - Regen Day 2, Week 1
 
 **Warmup:**
 - [ ] CARs x3-5 each
@@ -25908,7 +25908,7 @@
 
 ---
 
-### Friday, June 11, 2027 - Performance Day 3, Week 1
+### Friday, August 6, 2027 - Performance Day 3, Week 1
 
 **Warmup:**
 - [ ] CARs x3-5 each Thermo x2 min/15 cals
@@ -25987,7 +25987,7 @@
 
 ---
 
-### Saturday, June 12, 2027 - Regen Day 3, Week 1
+### Saturday, August 7, 2027 - Regen Day 3, Week 1
 
 **Warmup:**
 - [ ] CARs x3-5 each Thermo x2 min/15 cals
@@ -26108,7 +26108,7 @@
 
 ---
 
-### Sunday, June 13, 2027 - Tempo Lifting
+### Sunday, August 8, 2027 - Tempo Lifting
 
 **Warmup:**
 - [ ] CARs x3-5 each Thermo x2 min/15 cals
@@ -26126,7 +26126,7 @@
 ## Week 69
 *Originally: Week of December 09, 2024*
 
-### Monday, June 14, 2027 - Performance Day 1, Week 1
+### Monday, August 9, 2027 - Performance Day 1, Week 1
 
 **Warmup:**
 - [ ] CARs x3-5 each Thermo x2 min/15 cals
@@ -26210,7 +26210,7 @@
 
 ---
 
-### Tuesday, June 15, 2027 - Regen Day 1, Week 1
+### Tuesday, August 10, 2027 - Regen Day 1, Week 1
 
 **Warmup:**
 - [ ] CARs x3-5 each
@@ -26341,7 +26341,7 @@
 
 ---
 
-### Wednesday, June 16, 2027 - Performance Day 2, Week 1
+### Wednesday, August 11, 2027 - Performance Day 2, Week 1
 
 **Warmup:**
 - [ ] CARs x3-5 each Thermo x2 min/15 cals Pushup Iso Hold 2x30s Hamstring Bridge w/ adductor squeeze 2x10ea
@@ -26420,7 +26420,7 @@
 
 ---
 
-### Thursday, June 17, 2027 - Regen Day 2, Week 1
+### Thursday, August 12, 2027 - Regen Day 2, Week 1
 
 **Warmup:**
 - [ ] CARs x3-5 each
@@ -26552,7 +26552,7 @@
 
 ---
 
-### Friday, June 18, 2027 - Performance Day 3, Week 1
+### Friday, August 13, 2027 - Performance Day 3, Week 1
 
 **Warmup:**
 - [ ] CARs x3-5 each Thermo x2 min/15 cals
@@ -26631,7 +26631,7 @@
 
 ---
 
-### Saturday, June 19, 2027 - Regen Day 3, Week 1
+### Saturday, August 14, 2027 - Regen Day 3, Week 1
 
 **Warmup:**
 - [ ] CARs x3-5 each Thermo x2 min/15 cals
@@ -26752,7 +26752,7 @@
 
 ---
 
-### Sunday, June 20, 2027 - Tempo Lifting
+### Sunday, August 15, 2027 - Tempo Lifting
 
 **Warmup:**
 - [ ] CARs x3-5 each Thermo x2 min/15 cals
@@ -26770,7 +26770,7 @@
 ## Week 70
 *Originally: Week of December 16, 2024*
 
-### Monday, June 21, 2027 - 4 x 12,10,8,6 - Day 1
+### Monday, August 16, 2027 - 4 x 12,10,8,6 - Day 1
 
 **Warmup:**
 - [ ] Shoulder CARs and T-Spine CARs x5ea
@@ -26836,7 +26836,7 @@
 
 ---
 
-### Tuesday, June 22, 2027 - ESD - Day 2
+### Tuesday, August 17, 2027 - ESD - Day 2
 
 **Warmup:**
 - [ ] CARs
@@ -26864,7 +26864,7 @@
 
 ---
 
-### Wednesday, June 23, 2027 - 4 x 12,10,8,6 - Day 3
+### Wednesday, August 18, 2027 - 4 x 12,10,8,6 - Day 3
 
 **Warmup:**
 - [ ] Hip CARs & Cat Cow x5ea
@@ -26929,7 +26929,7 @@
 
 ---
 
-### Thursday, June 24, 2027 - ESD - Day 1
+### Thursday, August 19, 2027 - ESD - Day 1
 
 **Warmup:**
 - [ ] Spine, Shoulder, Hip CARs x5e
@@ -27003,7 +27003,7 @@
 
 ---
 
-### Friday, June 25, 2027 - 4 x 12,10,8,6 - Day 2
+### Friday, August 20, 2027 - 4 x 12,10,8,6 - Day 2
 
 **Warmup:**
 - [ ] Hip CARs and Cat Cow x5ea
@@ -27073,7 +27073,7 @@
 ## Week 71
 *Originally: Week of December 23, 2024*
 
-### Monday, June 28, 2027 - 4 x 12,10,8,6 - Day 1
+### Monday, August 23, 2027 - 4 x 12,10,8,6 - Day 1
 
 **Warmup:**
 - [ ] Shoulder CARs and T-Spine CARs x5ea
@@ -27139,7 +27139,7 @@
 
 ---
 
-### Tuesday, June 29, 2027 - ESD - Day 2
+### Tuesday, August 24, 2027 - ESD - Day 2
 
 **Warmup:**
 - [ ] CARs
@@ -27167,7 +27167,7 @@
 
 ---
 
-### Wednesday, June 30, 2027 - 4 x 12,10,8,6 - Day 3
+### Wednesday, August 25, 2027 - 4 x 12,10,8,6 - Day 3
 
 **Warmup:**
 - [ ] Hip CARs & Cat Cow x5ea
@@ -27232,7 +27232,7 @@
 
 ---
 
-### Thursday, July 01, 2027 - ESD - Day 1
+### Thursday, August 26, 2027 - ESD - Day 1
 
 **Warmup:**
 - [ ] Spine, Shoulder, Hip CARs x5e
@@ -27306,7 +27306,7 @@
 
 ---
 
-### Friday, July 02, 2027 - 4 x 12,10,8,6 - Day 2
+### Friday, August 27, 2027 - 4 x 12,10,8,6 - Day 2
 
 **Warmup:**
 - [ ] Hip CARs and Cat Cow x5ea
@@ -27376,7 +27376,7 @@
 ## Week 72
 *Originally: Week of December 30, 2024*
 
-### Monday, July 05, 2027 - 4 x 12,10,8,6 - Day 1
+### Monday, August 30, 2027 - 4 x 12,10,8,6 - Day 1
 
 **Warmup:**
 - [ ] Shoulder CARs and T-Spine CARs x5ea
@@ -27442,7 +27442,7 @@
 
 ---
 
-### Tuesday, July 06, 2027 - ESD - Day 2
+### Tuesday, August 31, 2027 - ESD - Day 2
 
 **Warmup:**
 - [ ] CARs
@@ -27470,7 +27470,7 @@
 
 ---
 
-### Wednesday, July 07, 2027 - 4 x 12,10,8,6 - Day 3
+### Wednesday, September 01, 2027 - 4 x 12,10,8,6 - Day 3
 
 **Warmup:**
 - [ ] Hip CARs & Cat Cow x5ea
@@ -27535,7 +27535,7 @@
 
 ---
 
-### Thursday, July 08, 2027 - ESD - Day 1
+### Thursday, September 02, 2027 - ESD - Day 1
 
 **Warmup:**
 - [ ] Spine, Shoulder, Hip CARs x5e
@@ -27609,7 +27609,7 @@
 
 ---
 
-### Friday, July 09, 2027 - 4 x 12,10,8,6 - Day 2
+### Friday, September 03, 2027 - 4 x 12,10,8,6 - Day 2
 
 **Warmup:**
 - [ ] Hip CARs and Cat Cow x5ea
@@ -27679,7 +27679,7 @@
 ## Week 73
 *Originally: Week of January 20, 2025*
 
-### Monday, July 12, 2027 - 4 x 12,10,8,6 - Day 1
+### Monday, September 6, 2027 - 4 x 12,10,8,6 - Day 1
 
 **Warmup:**
 - [ ] Shoulder CARs and T-Spine CARs x5ea
@@ -27745,7 +27745,7 @@
 
 ---
 
-### Tuesday, July 13, 2027 - ESD - Day 2
+### Tuesday, September 7, 2027 - ESD - Day 2
 
 **Warmup:**
 - [ ] CARs
@@ -27773,7 +27773,7 @@
 
 ---
 
-### Wednesday, July 14, 2027 - 4 x 12,10,8,6 - Day 3
+### Wednesday, September 8, 2027 - 4 x 12,10,8,6 - Day 3
 
 **Warmup:**
 - [ ] Hip CARs & Cat Cow x5ea
@@ -27838,7 +27838,7 @@
 
 ---
 
-### Thursday, July 15, 2027 - ESD - Day 1
+### Thursday, September 9, 2027 - ESD - Day 1
 
 **Warmup:**
 - [ ] Spine, Shoulder, Hip CARs x5e
@@ -27912,7 +27912,7 @@
 
 ---
 
-### Friday, July 16, 2027 - 4 x 12,10,8,6 - Day 2
+### Friday, September 10, 2027 - 4 x 12,10,8,6 - Day 2
 
 **Warmup:**
 - [ ] Hip CARs and Cat Cow x5ea
@@ -27982,7 +27982,7 @@
 ## Week 74
 *Originally: Week of February 03, 2025*
 
-### Monday, July 19, 2027 - 4 x 12,10,8,6 - Day 1
+### Monday, September 13, 2027 - 4 x 12,10,8,6 - Day 1
 
 **Warmup:**
 - [ ] Shoulder CARs and T-Spine CARs x5ea
@@ -28048,7 +28048,7 @@
 
 ---
 
-### Tuesday, July 20, 2027 - ESD - Day 2
+### Tuesday, September 14, 2027 - ESD - Day 2
 
 **Warmup:**
 - [ ] CARs
@@ -28076,7 +28076,7 @@
 
 ---
 
-### Wednesday, July 21, 2027 - 4 x 12,10,8,6 - Day 2
+### Wednesday, September 15, 2027 - 4 x 12,10,8,6 - Day 2
 
 **Warmup:**
 - [ ] Hip CARs and Cat Cow x5ea
@@ -28143,7 +28143,7 @@
 
 ---
 
-### Thursday, July 22, 2027 - ESD - Day 1
+### Thursday, September 16, 2027 - ESD - Day 1
 
 **Warmup:**
 - [ ] Spine, Shoulder, Hip CARs x5e
@@ -28217,7 +28217,7 @@
 
 ---
 
-### Friday, July 23, 2027 - 4 x 12,10,8,6 - Day 3
+### Friday, September 17, 2027 - 4 x 12,10,8,6 - Day 3
 
 **Warmup:**
 - [ ] Hip CARs & Cat Cow x5ea
@@ -28285,7 +28285,7 @@
 ## Week 75
 *Originally: Week of February 10, 2025*
 
-### Monday, July 26, 2027 - 4 x 12,10,8,6 - Day 1
+### Monday, September 20, 2027 - 4 x 12,10,8,6 - Day 1
 
 **Warmup:**
 - [ ] Shoulder CARs and T-Spine CARs x5ea
@@ -28351,7 +28351,7 @@
 
 ---
 
-### Tuesday, July 27, 2027 - ESD - Day 2
+### Tuesday, September 21, 2027 - ESD - Day 2
 
 **Warmup:**
 - [ ] CARs
@@ -28379,7 +28379,7 @@
 
 ---
 
-### Wednesday, July 28, 2027 - 4 x 12,10,8,6 - Day 2
+### Wednesday, September 22, 2027 - 4 x 12,10,8,6 - Day 2
 
 **Warmup:**
 - [ ] Hip CARs and Cat Cow x5ea
@@ -28446,7 +28446,7 @@
 
 ---
 
-### Thursday, July 29, 2027 - ESD - Day 1
+### Thursday, September 23, 2027 - ESD - Day 1
 
 **Warmup:**
 - [ ] Spine, Shoulder, Hip CARs x5e
@@ -28520,7 +28520,7 @@
 
 ---
 
-### Friday, July 30, 2027 - 4 x 12,10,8,6 - Day 3
+### Friday, September 24, 2027 - 4 x 12,10,8,6 - Day 3
 
 **Warmup:**
 - [ ] Hip CARs & Cat Cow x5ea
@@ -28588,7 +28588,7 @@
 ## Week 76
 *Originally: Week of February 17, 2025*
 
-### Monday, August 02, 2027 - 4 x 12,10,8,6 - Day 1
+### Monday, September 27, 2027 - 4 x 12,10,8,6 - Day 1
 
 **Warmup:**
 - [ ] Shoulder CARs and T-Spine CARs x5ea
@@ -28654,7 +28654,7 @@
 
 ---
 
-### Tuesday, August 03, 2027 - ESD - Day 2
+### Tuesday, September 28, 2027 - ESD - Day 2
 
 **Warmup:**
 - [ ] CARs
@@ -28682,7 +28682,7 @@
 
 ---
 
-### Wednesday, August 04, 2027 - 4 x 12,10,8,6 - Day 2
+### Wednesday, September 29, 2027 - 4 x 12,10,8,6 - Day 2
 
 **Warmup:**
 - [ ] Hip CARs and Cat Cow x5ea
@@ -28749,7 +28749,7 @@
 
 ---
 
-### Thursday, August 05, 2027 - ESD - Day 1
+### Thursday, September 30, 2027 - ESD - Day 1
 
 **Warmup:**
 - [ ] Spine, Shoulder, Hip CARs x5e
@@ -28823,7 +28823,7 @@
 
 ---
 
-### Friday, August 06, 2027 - 4 x 12,10,8,6 - Day 3
+### Friday, October 01, 2027 - 4 x 12,10,8,6 - Day 3
 
 **Warmup:**
 - [ ] Hip CARs & Cat Cow x5ea
@@ -28891,7 +28891,7 @@
 ## Week 77
 *Originally: Week of March 10, 2025*
 
-### Monday, August 09, 2027 - Day 3
+### Monday, October 04, 2027 - Day 3
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -28966,7 +28966,7 @@
 
 ---
 
-### Tuesday, August 10, 2027 - ESD A
+### Tuesday, October 5, 2027 - ESD A
 
 **Warmup:**
 - [ ] Spine, Shoulder, Hip CARs x5e
@@ -29018,7 +29018,7 @@
 
 ---
 
-### Wednesday, August 11, 2027 - Day 1
+### Wednesday, October 6, 2027 - Day 1
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -29081,7 +29081,7 @@
 
 ---
 
-### Thursday, August 12, 2027 - Aerobic Development
+### Thursday, October 7, 2027 - Aerobic Development
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -29161,7 +29161,7 @@
 
 ---
 
-### Friday, August 13, 2027 - Day 2
+### Friday, October 8, 2027 - Day 2
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -29227,7 +29227,7 @@
 ## Week 78
 *Originally: Week of March 17, 2025*
 
-### Monday, August 16, 2027 - Day 3
+### Monday, October 11, 2027 - Day 3
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -29302,7 +29302,7 @@
 
 ---
 
-### Tuesday, August 17, 2027 - ESD A
+### Tuesday, October 12, 2027 - ESD A
 
 **Warmup:**
 - [ ] Spine, Shoulder, Hip CARs x5e
@@ -29354,7 +29354,7 @@
 
 ---
 
-### Wednesday, August 18, 2027 - Day 1
+### Wednesday, October 13, 2027 - Day 1
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -29417,7 +29417,7 @@
 
 ---
 
-### Thursday, August 19, 2027 - Aerobic Development
+### Thursday, October 14, 2027 - Aerobic Development
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -29497,7 +29497,7 @@
 
 ---
 
-### Friday, August 20, 2027 - Day 2
+### Friday, October 15, 2027 - Day 2
 
 **Warmup:**
 - [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
@@ -29563,7 +29563,7 @@
 ## Week 79
 *Originally: Week of March 31, 2025*
 
-### Monday, August 23, 2027 - 5x10 - Day 1, Week 1
+### Monday, October 18, 2027 - 5x10 - Day 1, Week 1
 
 **A) Joint Specific: Big Five CARs - Perform 1 sets of 5/e - Scap - Shoulder - Cat/Cow - T-Spine - Hip**
 | Set | Weight | Reps | Notes |
@@ -29699,7 +29699,7 @@
 
 ---
 
-### Tuesday, August 24, 2027 - ESD A
+### Tuesday, October 19, 2027 - ESD A
 
 **Warmup:**
 - [ ] Spine, Shoulder, Hip CARs x5e
@@ -29751,7 +29751,7 @@
 
 ---
 
-### Wednesday, August 25, 2027 - 5x10 - Day 2, Week 1
+### Wednesday, October 20, 2027 - 5x10 - Day 2, Week 1
 
 **A) Joint Specific: Big Five CARs - Perform 1 sets of 5/e - Scap - Shoulder - Cat/Cow - T-Spine - Hip**
 | Set | Weight | Reps | Notes |
@@ -29885,7 +29885,7 @@
 
 ---
 
-### Thursday, August 26, 2027 - ESD - Day 2
+### Thursday, October 21, 2027 - ESD - Day 2
 
 **Warmup:**
 - [ ] CARs
@@ -29913,7 +29913,7 @@
 
 ---
 
-### Friday, August 27, 2027 - 5x10 - Day 3, Week 1
+### Friday, October 22, 2027 - 5x10 - Day 3, Week 1
 
 **A) Joint Specific: Big Five CARs - Perform 1 sets of 5/e - Scap - Shoulder - Cat/Cow - T-Spine - Hip**
 | Set | Weight | Reps | Notes |
@@ -30051,7 +30051,7 @@
 ## Week 80
 *Originally: Week of April 14, 2025*
 
-### Monday, August 30, 2027 - 5x10 - Day 1, Week 1
+### Monday, October 25, 2027 - 5x10 - Day 1, Week 1
 
 **A) Joint Specific: Big Five CARs - Perform 1 sets of 5/e - Scap - Shoulder - Cat/Cow - T-Spine - Hip**
 | Set | Weight | Reps | Notes |
@@ -30187,7 +30187,7 @@
 
 ---
 
-### Tuesday, August 31, 2027 - ESD A
+### Tuesday, October 26, 2027 - ESD A
 
 **Warmup:**
 - [ ] Spine, Shoulder, Hip CARs x5e
@@ -30239,7 +30239,7 @@
 
 ---
 
-### Wednesday, September 01, 2027 - 5x10 - Day 2, Week 1
+### Wednesday, October 27, 2027 - 5x10 - Day 2, Week 1
 
 **A) Joint Specific: Big Five CARs - Perform 1 sets of 5/e - Scap - Shoulder - Cat/Cow - T-Spine - Hip**
 | Set | Weight | Reps | Notes |
@@ -30373,7 +30373,7 @@
 
 ---
 
-### Thursday, September 02, 2027 - ESD - Day 2
+### Thursday, October 28, 2027 - ESD - Day 2
 
 **Warmup:**
 - [ ] CARs
@@ -30401,7 +30401,7 @@
 
 ---
 
-### Friday, September 03, 2027 - 5x10 - Day 3, Week 1
+### Friday, October 29, 2027 - 5x10 - Day 3, Week 1
 
 **A) Joint Specific: Big Five CARs - Perform 1 sets of 5/e - Scap - Shoulder - Cat/Cow - T-Spine - Hip**
 | Set | Weight | Reps | Notes |
@@ -30539,7 +30539,7 @@
 ## Week 81
 *Originally: Week of April 21, 2025*
 
-### Monday, September 06, 2027 - 5x10 - Day 1, Week 1
+### Monday, November 01, 2027 - 5x10 - Day 1, Week 1
 
 **A) Joint Specific: Big Five CARs - Perform 1 sets of 5/e - Scap - Shoulder - Cat/Cow - T-Spine - Hip**
 | Set | Weight | Reps | Notes |
@@ -30675,7 +30675,7 @@
 
 ---
 
-### Tuesday, September 07, 2027 - ESD A
+### Tuesday, November 02, 2027 - ESD A
 
 **Warmup:**
 - [ ] Spine, Shoulder, Hip CARs x5e
@@ -30727,7 +30727,7 @@
 
 ---
 
-### Wednesday, September 08, 2027 - 5x10 - Day 2, Week 1
+### Wednesday, November 03, 2027 - 5x10 - Day 2, Week 1
 
 **A) Joint Specific: Big Five CARs - Perform 1 sets of 5/e - Scap - Shoulder - Cat/Cow - T-Spine - Hip**
 | Set | Weight | Reps | Notes |
@@ -30861,7 +30861,7 @@
 
 ---
 
-### Thursday, September 09, 2027 - ESD - Day 2
+### Thursday, November 04, 2027 - ESD - Day 2
 
 **Warmup:**
 - [ ] CARs
@@ -30889,7 +30889,7 @@
 
 ---
 
-### Friday, September 10, 2027 - 5x10 - Day 3, Week 1
+### Friday, November 5, 2027 - 5x10 - Day 3, Week 1
 
 **A) Joint Specific: Big Five CARs - Perform 1 sets of 5/e - Scap - Shoulder - Cat/Cow - T-Spine - Hip**
 | Set | Weight | Reps | Notes |
@@ -31027,7 +31027,7 @@
 ## Week 82
 *Originally: Week of April 28, 2025*
 
-### Monday, September 13, 2027 - 5x10 - Day 1, Week 1
+### Monday, November 8, 2027 - 5x10 - Day 1, Week 1
 
 **A) Joint Specific: Big Five CARs - Perform 1 sets of 5/e - Scap - Shoulder - Cat/Cow - T-Spine - Hip**
 | Set | Weight | Reps | Notes |
@@ -31163,7 +31163,7 @@
 
 ---
 
-### Tuesday, September 14, 2027 - ESD A
+### Tuesday, November 9, 2027 - ESD A
 
 **Warmup:**
 - [ ] Spine, Shoulder, Hip CARs x5e
@@ -31215,7 +31215,7 @@
 
 ---
 
-### Wednesday, September 15, 2027 - 5x10 - Day 2, Week 1
+### Wednesday, November 10, 2027 - 5x10 - Day 2, Week 1
 
 **A) Joint Specific: Big Five CARs - Perform 1 sets of 5/e - Scap - Shoulder - Cat/Cow - T-Spine - Hip**
 | Set | Weight | Reps | Notes |
@@ -31349,7 +31349,7 @@
 
 ---
 
-### Thursday, September 16, 2027 - ESD - Day 2
+### Thursday, November 11, 2027 - ESD - Day 2
 
 **Warmup:**
 - [ ] CARs
@@ -31377,7 +31377,7 @@
 
 ---
 
-### Friday, September 17, 2027 - 5x10 - Day 3, Week 1
+### Friday, November 12, 2027 - 5x10 - Day 3, Week 1
 
 **A) Joint Specific: Big Five CARs - Perform 1 sets of 5/e - Scap - Shoulder - Cat/Cow - T-Spine - Hip**
 | Set | Weight | Reps | Notes |
@@ -31515,7 +31515,7 @@
 ## Week 83
 *Originally: Week of May 05, 2025*
 
-### Monday, September 20, 2027 - 5x10 - Day 1, Week 1
+### Monday, November 15, 2027 - 5x10 - Day 1, Week 1
 
 **A) Joint Specific: Big Five CARs - Perform 1 sets of 5/e - Scap - Shoulder - Cat/Cow - T-Spine - Hip**
 | Set | Weight | Reps | Notes |
@@ -31651,7 +31651,7 @@
 
 ---
 
-### Tuesday, September 21, 2027 - ESD A
+### Tuesday, November 16, 2027 - ESD A
 
 **Warmup:**
 - [ ] Spine, Shoulder, Hip CARs x5e
@@ -31703,7 +31703,7 @@
 
 ---
 
-### Wednesday, September 22, 2027 - 5x10 - Day 2, Week 1
+### Wednesday, November 17, 2027 - 5x10 - Day 2, Week 1
 
 **A) Joint Specific: Big Five CARs - Perform 1 sets of 5/e - Scap - Shoulder - Cat/Cow - T-Spine - Hip**
 | Set | Weight | Reps | Notes |
@@ -31837,7 +31837,7 @@
 
 ---
 
-### Thursday, September 23, 2027 - ESD - Day 2
+### Thursday, November 18, 2027 - ESD - Day 2
 
 **Warmup:**
 - [ ] CARs
@@ -31865,7 +31865,7 @@
 
 ---
 
-### Friday, September 24, 2027 - 5x10 - Day 3, Week 1
+### Friday, November 19, 2027 - 5x10 - Day 3, Week 1
 
 **A) Joint Specific: Big Five CARs - Perform 1 sets of 5/e - Scap - Shoulder - Cat/Cow - T-Spine - Hip**
 | Set | Weight | Reps | Notes |
@@ -32003,7 +32003,7 @@
 ## Week 84
 *Originally: Week of May 26, 2025*
 
-### Monday, September 27, 2027 - 5x10 - Day 1
+### Monday, November 22, 2027 - 5x10 - Day 1
 
 **A) Joint Specific: Big Five CARs - Perform 1 sets of 5/e - Scap - Shoulder - Cat/Cow - T-Spine - Hip**
 | Set | Weight | Reps | Notes |
@@ -32139,7 +32139,7 @@
 
 ---
 
-### Tuesday, September 28, 2027 - ESD A
+### Tuesday, November 23, 2027 - ESD A
 
 **Warmup:**
 - [ ] Spine, Shoulder, Hip CARs x5e
@@ -32191,7 +32191,7 @@
 
 ---
 
-### Wednesday, September 29, 2027 - 5x10 - Day 2
+### Wednesday, November 24, 2027 - 5x10 - Day 2
 
 **A) Joint Specific: Big Five CARs - Perform 1 sets of 5/e - Scap - Shoulder - Cat/Cow - T-Spine - Hip**
 | Set | Weight | Reps | Notes |
@@ -32325,7 +32325,7 @@
 
 ---
 
-### Thursday, September 30, 2027 - ESD - Day 2
+### Thursday, November 25, 2027 - ESD - Day 2
 
 **Warmup:**
 - [ ] CARs
@@ -32353,7 +32353,7 @@
 
 ---
 
-### Friday, October 01, 2027 - 5x10 - Day 3
+### Friday, November 26, 2027 - 5x10 - Day 3
 
 **A) Joint Specific: Big Five CARs - Perform 1 sets of 5/e - Scap - Shoulder - Cat/Cow - T-Spine - Hip**
 | Set | Weight | Reps | Notes |
@@ -32491,7 +32491,7 @@
 ## Week 85
 *Originally: Week of June 02, 2025*
 
-### Monday, October 04, 2027 - 5x10 - Day 1
+### Monday, November 29, 2027 - 5x10 - Day 1
 
 **A) Joint Specific: Big Five CARs - Perform 1 sets of 5/e - Scap - Shoulder - Cat/Cow - T-Spine - Hip**
 | Set | Weight | Reps | Notes |
@@ -32627,7 +32627,7 @@
 
 ---
 
-### Tuesday, October 05, 2027 - ESD A
+### Tuesday, November 30, 2027 - ESD A
 
 **Warmup:**
 - [ ] Spine, Shoulder, Hip CARs x5e
@@ -32679,7 +32679,7 @@
 
 ---
 
-### Wednesday, October 06, 2027 - 5x10 - Day 2
+### Wednesday, December 01, 2027 - 5x10 - Day 2
 
 **A) Joint Specific: Big Five CARs - Perform 1 sets of 5/e - Scap - Shoulder - Cat/Cow - T-Spine - Hip**
 | Set | Weight | Reps | Notes |
@@ -32813,7 +32813,7 @@
 
 ---
 
-### Thursday, October 07, 2027 - ESD - Day 2
+### Thursday, December 02, 2027 - ESD - Day 2
 
 **Warmup:**
 - [ ] CARs
@@ -32841,7 +32841,7 @@
 
 ---
 
-### Friday, October 08, 2027 - 5x10 - Day 3
+### Friday, December 03, 2027 - 5x10 - Day 3
 
 **A) Joint Specific: Big Five CARs - Perform 1 sets of 5/e - Scap - Shoulder - Cat/Cow - T-Spine - Hip**
 | Set | Weight | Reps | Notes |
@@ -32979,7 +32979,7 @@
 ## Week 86
 *Originally: Week of June 09, 2025*
 
-### Monday, October 11, 2027 - 4x10 - Day 1
+### Monday, December 6, 2027 - 4x10 - Day 1
 
 **A) Joint Specific: Big Five CARs - Perform 1 sets of 5/e - Scap - Shoulder - Cat/Cow - T-Spine - Hip**
 | Set | Weight | Reps | Notes |
@@ -33114,7 +33114,7 @@
 
 ---
 
-### Tuesday, October 12, 2027 - ESD A
+### Tuesday, December 7, 2027 - ESD A
 
 **Warmup:**
 - [ ] Spine, Shoulder, Hip CARs x5e
@@ -33166,7 +33166,7 @@
 
 ---
 
-### Wednesday, October 13, 2027 - 4x10 - Day 2
+### Wednesday, December 8, 2027 - 4x10 - Day 2
 
 **A) Joint Specific: Big Five CARs - Perform 1 sets of 5/e - Scap - Shoulder - Cat/Cow - T-Spine - Hip**
 | Set | Weight | Reps | Notes |
@@ -33299,7 +33299,7 @@
 
 ---
 
-### Thursday, October 14, 2027 - ESD - Day 2
+### Thursday, December 9, 2027 - ESD - Day 2
 
 **Warmup:**
 - [ ] CARs
@@ -33327,7 +33327,7 @@
 
 ---
 
-### Friday, October 15, 2027 - 4x10 - Day 3
+### Friday, December 10, 2027 - 4x10 - Day 3
 
 **A) Joint Specific: Big Five CARs - Perform 1 sets of 5/e - Scap - Shoulder - Cat/Cow - T-Spine - Hip**
 | Set | Weight | Reps | Notes |
