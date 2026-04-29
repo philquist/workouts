@@ -1,6 +1,6 @@
 # Workouts 
 
-Personal workout tracking and training data.
+Personal workout tracking and training data. 
 
 ## Structure
 - `workouts/` - Training logs organized by date
