@@ -917,23 +917,23 @@
 **A3) Hamstring Curls 3x15** - 3/0/X/0
 | Set | Weight | Reps | Notes |
 |-----|--------|------|-------|
-| 1   |        |      |  |
+| 1   |   85    |      |  |
 | 2   |        |      |  |
 | 3   |        |      |  |
 
 **B1) DB OH Press 3x11** - 2/0/X/0
 | Set | Weight | Reps | Notes |
 |-----|--------|------|-------|
-| 1   |        |      |  |
+| 1   |   27.5    |      |  |
 | 2   |        |      |  |
 | 3   |        |      |  |
 
 **B2) DB Lateral Raise 3x11** - 2/0/X/0
 | Set | Weight | Reps | Notes |
 |-----|--------|------|-------|
-| 1   |        |      |  |
-| 2   |        |      |  |
-| 3   |        |      |  |
+| 1   |   12.5    |  12  |  |
+| 2   |   12.5    |   12   |  |
+| 3   |    12.5   |  12   |  |
 
 **C1) Seated SA Cable Row 3x12**
 | Set | Weight | Reps | Notes |
