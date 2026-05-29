@@ -1,0 +1,25 @@
+# Workout Tracker — Index
+
+*86 weeks of programming from Monarch Athletic Club via TrueCoach, split into 13-week training blocks (last block is 8 weeks) for editor performance.*
+
+## Training blocks
+
+| Block | Weeks | File | Size |
+|------:|------:|------|-----:|
+| #1 | 1–13 | [Workout Tracker - Block #1 - Weeks 1-13.md](Workout Tracker - Block #1 - Weeks 1-13.md) | 139 KB |
+| #2 | 14–26 | [Workout Tracker - Block #2 - Weeks 14-26.md](Workout Tracker - Block #2 - Weeks 14-26.md) | 165 KB |
+| #3 | 27–39 | [Workout Tracker - Block #3 - Weeks 27-39.md](Workout Tracker - Block #3 - Weeks 27-39.md) | 160 KB |
+| #4 | 40–52 | [Workout Tracker - Block #4 - Weeks 40-52.md](Workout Tracker - Block #4 - Weeks 40-52.md) | 128 KB |
+| #5 | 53–65 | [Workout Tracker - Block #5 - Weeks 53-65.md](Workout Tracker - Block #5 - Weeks 53-65.md) | 159 KB |
+| #6 | 66–78 | [Workout Tracker - Block #6 - Weeks 66-78.md](Workout Tracker - Block #6 - Weeks 66-78.md) | 149 KB |
+| #7 | 79–86 | [Workout Tracker - Block #7 - Weeks 79-86.md](Workout Tracker - Block #7 - Weeks 79-86.md) | 106 KB |
+
+## Conventions
+
+- `## Week N` headings number the training week (1–86).
+- `### <Weekday> - <Session>, Week N` identifies each session — calendar dates were stripped.
+- Content within each week is preserved verbatim from the source.
+
+## Why this is split
+
+The original single-file tracker was 1.01 MB / 33,462 lines with ~19,800 lines of Markdown tables. That shape pegs Markdown editors. Each block file here is ~110–170 KB and should open instantly.
