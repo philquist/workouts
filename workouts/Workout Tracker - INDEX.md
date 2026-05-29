@@ -6,13 +6,13 @@
 
 | Block | Weeks | File | Size |
 |------:|------:|------|-----:|
-| #1 | 1–13 | [Workout Tracker - Block #1 - Weeks 1-13.md](Workout Tracker - Block #1 - Weeks 1-13.md) | 139 KB |
-| #2 | 14–26 | [Workout Tracker - Block #2 - Weeks 14-26.md](Workout Tracker - Block #2 - Weeks 14-26.md) | 165 KB |
-| #3 | 27–39 | [Workout Tracker - Block #3 - Weeks 27-39.md](Workout Tracker - Block #3 - Weeks 27-39.md) | 160 KB |
-| #4 | 40–52 | [Workout Tracker - Block #4 - Weeks 40-52.md](Workout Tracker - Block #4 - Weeks 40-52.md) | 128 KB |
-| #5 | 53–65 | [Workout Tracker - Block #5 - Weeks 53-65.md](Workout Tracker - Block #5 - Weeks 53-65.md) | 159 KB |
-| #6 | 66–78 | [Workout Tracker - Block #6 - Weeks 66-78.md](Workout Tracker - Block #6 - Weeks 66-78.md) | 149 KB |
-| #7 | 79–86 | [Workout Tracker - Block #7 - Weeks 79-86.md](Workout Tracker - Block #7 - Weeks 79-86.md) | 106 KB |
+| #1 | 1–13 | [Workout Tracker - Block #1 - Weeks 1-13.md](./Workout%20Tracker%20-%20Block%20%231%20-%20Weeks%201-13.md) | 139 KB |
+| #2 | 14–26 | [Workout Tracker - Block #2 - Weeks 14-26.md](./Workout%20Tracker%20-%20Block%20%232%20-%20Weeks%2014-26.md) | 165 KB |
+| #3 | 27–39 | [Workout Tracker - Block #3 - Weeks 27-39.md](./Workout%20Tracker%20-%20Block%20%233%20-%20Weeks%2027-39.md) | 160 KB |
+| #4 | 40–52 | [Workout Tracker - Block #4 - Weeks 40-52.md](./Workout%20Tracker%20-%20Block%20%234%20-%20Weeks%2040-52.md) | 128 KB |
+| #5 | 53–65 | [Workout Tracker - Block #5 - Weeks 53-65.md](./Workout%20Tracker%20-%20Block%20%235%20-%20Weeks%2053-65.md) | 159 KB |
+| #6 | 66–78 | [Workout Tracker - Block #6 - Weeks 66-78.md](./Workout%20Tracker%20-%20Block%20%236%20-%20Weeks%2066-78.md) | 149 KB |
+| #7 | 79–86 | [Workout Tracker - Block #7 - Weeks 79-86.md](./Workout%20Tracker%20-%20Block%20%237%20-%20Weeks%2079-86.md) | 106 KB |
 
 ## Conventions
 
