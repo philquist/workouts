@@ -5,7 +5,7 @@
 
 ---
 
-## Week 1
+## Week 1 
 
 ### Monday - Day 1, Week 1
 
