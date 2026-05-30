@@ -105,13 +105,20 @@
     view.appendChild(list);
     renderExercises(list, session);
 
+    // load from program (shown only when the parsed program is available)
+    if (PROGRAM && PROGRAM.weeks && PROGRAM.weeks.length) {
+      const progBtn = el(`<button class="ghost-btn program-btn" id="load-program">📋 Load a day from your program</button>`);
+      progBtn.addEventListener('click', () => openProgramPicker(date));
+      view.appendChild(progBtn);
+    }
+
     // add exercise
     const adder = el(`
       <form class="add-exercise card" id="add-ex-form" autocomplete="off">
         <input list="ex-suggestions" id="new-ex-name" placeholder="Add exercise (e.g. Bench Press)" aria-label="Exercise name" />
         <button type="submit" class="primary-btn">Add</button>
         <datalist id="ex-suggestions">
-          ${DB.exerciseNames().map((n) => `<option value="${esc(n)}"></option>`).join('')}
+          ${allExerciseNames().map((n) => `<option value="${esc(n)}"></option>`).join('')}
         </datalist>
       </form>`);
     view.appendChild(adder);
@@ -183,6 +190,10 @@
       </div>`);
     card.appendChild(head);
 
+    // program target + "last time" hints
+    const meta = buildExerciseMeta(session, ex);
+    if (meta) card.appendChild(meta);
+
     // sets table
     const table = el(`
       <div class="sets">
@@ -242,6 +253,23 @@
     });
 
     return card;
+  }
+
+  function buildExerciseMeta(session, ex) {
+    const bits = [];
+    if (ex.target && (ex.target.scheme || ex.target.sets)) {
+      const t = ex.target;
+      let s = 'Target: ' + (t.scheme || (t.sets + ' sets'));
+      if (t.tempo) s += ' · tempo ' + t.tempo;
+      bits.push(`<div class="ex-target">${esc(s)}</div>`);
+    }
+    const last = DB.lastPerformance(ex.name, session.date);
+    if (last) {
+      const sets = last.sets.map((x) => `${trimNum(x.weight)}×${x.reps}`).join(', ');
+      bits.push(`<div class="ex-last">Last (${esc(prettyDate(last.date))}): ${esc(sets)}</div>`);
+    }
+    if (!bits.length) return null;
+    return el(`<div class="ex-meta">${bits.join('')}</div>`);
   }
 
   function buildSetRow(session, ex, set, i) {
@@ -570,7 +598,102 @@
     });
   }
 
+  // ============================================================
+  // PROGRAM (parsed from the Markdown training plan -> data/program.json)
+  // ============================================================
+  let PROGRAM = null;
+
+  // History names first (most personal), then program names alphabetically.
+  function allExerciseNames() {
+    const fromHistory = DB.exerciseNames();
+    const have = new Set(fromHistory);
+    const extra = [];
+    if (PROGRAM && PROGRAM.exerciseNames) {
+      for (const n of PROGRAM.exerciseNames) if (!have.has(n)) { have.add(n); extra.push(n); }
+    }
+    extra.sort((a, b) => (a.toLowerCase() < b.toLowerCase() ? -1 : 1));
+    return fromHistory.concat(extra);
+  }
+
+  async function loadProgram() {
+    try {
+      const res = await fetch('data/program.json', { cache: 'force-cache' });
+      if (!res.ok) throw new Error('no program');
+      PROGRAM = await res.json();
+      if (currentRoute().path === '/log') router(); // reveal the program button
+    } catch (e) {
+      PROGRAM = null; // still fully usable as a free-form logger
+    }
+  }
+
+  // Modal: pick a week + session, then add its exercises to `date`.
+  function openProgramPicker(date) {
+    if (!PROGRAM || !PROGRAM.weeks || !PROGRAM.weeks.length) { toast('Program not loaded'); return; }
+    const lastWeek = localStorage.getItem('workoutlog.lastWeek');
+    let weekIdx = PROGRAM.weeks.findIndex((w) => String(w.week) === lastWeek);
+    if (weekIdx < 0) weekIdx = 0;
+
+    const overlay = el('<div class="modal-overlay"></div>');
+    const modal = el(`
+      <div class="modal" role="dialog" aria-label="Load from program">
+        <div class="modal-head">
+          <h3>Load from program</h3>
+          <button class="icon-btn modal-close" aria-label="Close">✕</button>
+        </div>
+        <label class="field-label" for="pp-week">Week</label>
+        <select id="pp-week"></select>
+        <label class="field-label" for="pp-session">Session</label>
+        <select id="pp-session"></select>
+        <div id="pp-preview" class="pp-preview"></div>
+        <button class="primary-btn" id="pp-add">Add to ${esc(prettyDate(date))}</button>
+      </div>`);
+    overlay.appendChild(modal);
+    document.body.appendChild(overlay);
+
+    const weekSel = modal.querySelector('#pp-week');
+    const sessSel = modal.querySelector('#pp-session');
+    const preview = modal.querySelector('#pp-preview');
+
+    weekSel.innerHTML = PROGRAM.weeks.map((w, i) =>
+      `<option value="${i}" ${i === weekIdx ? 'selected' : ''}>Week ${w.week}${w.block ? ' · Block ' + w.block : ''}</option>`).join('');
+
+    function fillSessions() {
+      const w = PROGRAM.weeks[Number(weekSel.value)];
+      sessSel.innerHTML = w.sessions.map((s, i) => `<option value="${i}">${esc(s.title)}</option>`).join('');
+      fillPreview();
+    }
+    function fillPreview() {
+      const w = PROGRAM.weeks[Number(weekSel.value)];
+      const s = w.sessions[Number(sessSel.value)];
+      preview.innerHTML = s.exercises.map((e) =>
+        `<div class="pp-ex"><span>${e.code ? esc(e.code) + ') ' : ''}${esc(e.name)}</span><span class="muted">${esc(e.scheme || (e.sets + ' sets'))}</span></div>`).join('');
+    }
+    weekSel.addEventListener('change', fillSessions);
+    sessSel.addEventListener('change', fillPreview);
+    fillSessions();
+
+    function close() { overlay.remove(); }
+    modal.querySelector('.modal-close').addEventListener('click', close);
+    overlay.addEventListener('click', (e) => { if (e.target === overlay) close(); });
+
+    modal.querySelector('#pp-add').addEventListener('click', () => {
+      const w = PROGRAM.weeks[Number(weekSel.value)];
+      const s = w.sessions[Number(sessSel.value)];
+      localStorage.setItem('workoutlog.lastWeek', String(w.week));
+      const session = DB.getOrCreateSession(date);
+      for (const e of s.exercises) {
+        DB.addExercise(session.id, e.name, {
+          scheme: e.scheme || null, tempo: e.tempo || null, sets: e.sets || null, code: e.code || null,
+        });
+      }
+      close();
+      toast(`Added ${s.exercises.length} exercises`);
+      router();
+    });
+  }
+
   // ---------- boot ----------
   if (!location.hash) location.hash = '#/log';
   router();
+  loadProgram();
 })();

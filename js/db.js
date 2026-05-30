@@ -122,10 +122,12 @@
   }
 
   // ---- exercises within a session ----
-  function addExercise(sessionId, name) {
+  // `target` is optional program metadata: { scheme, tempo, sets, code }.
+  function addExercise(sessionId, name, target) {
     const s = getSession(sessionId);
     if (!s) return null;
     const ex = { id: uid(), name: name.trim(), sets: [] };
+    if (target) ex.target = target;
     s.exercises.push(ex);
     persist();
     return ex;
@@ -258,6 +260,25 @@
     return rows;
   }
 
+  // Most recent prior performance of an exercise (for "last time" hints).
+  // Returns { date, sets: [{weight, reps}] } from the latest session strictly
+  // before `beforeDate` (or the latest overall if beforeDate omitted).
+  function lastPerformance(name, beforeDate) {
+    const target = name.trim().toLowerCase();
+    let best = null;
+    for (const s of state.sessions) {
+      if (beforeDate && s.date >= beforeDate) continue;
+      for (const ex of s.exercises) {
+        if (ex.name.trim().toLowerCase() !== target) continue;
+        if (!ex.sets.length) continue;
+        if (!best || s.date > best.date) {
+          best = { date: s.date, sets: ex.sets.map((x) => ({ weight: x.weight, reps: x.reps })) };
+        }
+      }
+    }
+    return best;
+  }
+
   // Personal records for an exercise name.
   function personalRecords(name) {
     const hist = exerciseHistory(name);
@@ -329,7 +350,7 @@
     addExercise, renameExercise, deleteExercise, findExercise,
     addSet, updateSet, deleteSet,
     getBodyweights, logBodyweight, deleteBodyweight,
-    exerciseNames, exerciseHistory, personalRecords, estimate1RM, summary,
+    exerciseNames, exerciseHistory, personalRecords, lastPerformance, estimate1RM, summary,
     exportJSON, importJSON, clearAll,
   };
 })(window);

@@ -1,5 +1,5 @@
 /* Service worker — offline caching for the Workout Log PWA. */
-const CACHE = 'workoutlog-v1';
+const CACHE = 'workoutlog-v2';
 const ASSETS = [
   './',
   './index.html',
@@ -8,8 +8,10 @@ const ASSETS = [
   './js/charts.js',
   './js/app.js',
   './manifest.webmanifest',
+  './data/program.json',
   './icons/icon-192.png',
   './icons/icon-512.png',
+  './icons/icon-maskable-512.png',
 ];
 
 self.addEventListener('install', (event) => {

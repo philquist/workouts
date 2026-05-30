@@ -21,7 +21,31 @@ device**, with one-tap backup/transfer via an export file.
 - **lb / kg** display toggle.
 - **Backup & transfer** — export your data to a JSON file and import it on
   another device (merge or replace).
+- **Program-aware** — load any day from your 86-week training plan with its
+  set/rep/tempo targets, instead of retyping exercise names.
 - **Offline-first PWA** — installable, works with no signal.
+
+## Training program
+
+This repo's Markdown plan (`Workout Tracker - Block #N ... .md`, 86 weeks) is
+parsed into `data/program.json` so you can pull a prescribed day straight into
+the logger:
+
+1. On the **Log** tab, tap **📋 Load a day from your program**.
+2. Pick the **week** and **session** (e.g. *Monday – 5x10 – Day 1*).
+3. The day's exercises are added with their **set/rep/tempo targets**, and each
+   shows what you lifted **last time** — just fill in weight and reps.
+
+Exercise-name autocomplete also draws from the program, and the empty tables in
+the Markdown are templates only (no weights are stored there).
+
+### Rebuilding the program data
+
+After editing the Markdown plan, regenerate the JSON the app reads:
+
+```bash
+python3 tools/import_program.py   # rewrites data/program.json
+```
 
 ## Use it
 
@@ -83,10 +107,15 @@ js/charts.js            tiny dependency-free SVG line chart
 js/app.js               views + hash router (Log / History / Trends / Data)
 manifest.webmanifest    PWA manifest
 sw.js                   service worker (offline caching)
-icons/                  app icons
+icons/                  app icons (generated)
+data/program.json       training program parsed from the Markdown logs
+tools/import_program.py rebuilds data/program.json from the Markdown plan
+tools/make_icons.py     regenerates the icon set (pure Python, no deps)
 ```
 
-No build step, no dependencies — just open `index.html`.
+The app itself has **no build step and no dependencies** — just open
+`index.html` via a static server. The `tools/` scripts (standard-library
+Python only) are needed only to regenerate the program data or icons.
 
 ## Notes on the numbers
 
