@@ -1,0 +1,47 @@
+name: Rebuild program data
+
+# Whenever the Markdown training plan changes on main, regenerate
+# data/program.json (what the app's "Load a day from your program" picker
+# reads) and commit it back so the deployed app stays in sync with the plan.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "Workout Tracker - Block*.md"
+      - "tools/import_program.py"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: rebuild-program-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Regenerate data/program.json
+        run: python3 tools/import_program.py
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet -- data/program.json; then
+            echo "program.json is already up to date — nothing to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/program.json
+          git commit -m "Rebuild program.json from training plan [skip ci]"
+          git push

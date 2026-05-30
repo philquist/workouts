@@ -41,7 +41,14 @@ the Markdown are templates only (no weights are stored there).
 
 ### Rebuilding the program data
 
-After editing the Markdown plan, regenerate the JSON the app reads:
+This is **automatic**: a GitHub Action
+(`.github/workflows/rebuild-program.yml`) regenerates `data/program.json` and
+commits it back whenever you push a change to a `Workout Tracker - Block*.md`
+file (or to the parser) on `main` — so the deployed app's program picker always
+matches your plan. You can also trigger it manually from the repo's **Actions**
+tab ("Run workflow").
+
+To regenerate it locally instead:
 
 ```bash
 python3 tools/import_program.py   # rewrites data/program.json
