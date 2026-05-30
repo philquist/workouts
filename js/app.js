@@ -497,6 +497,9 @@
         <input type="file" id="import-file" accept="application/json,.json" hidden />
       </div>`));
 
+    // cloud sync (GitHub Gist)
+    view.appendChild(buildSyncCard());
+
     // danger zone
     view.appendChild(el(`
       <div class="card danger">
@@ -507,6 +510,7 @@
     view.appendChild(el(`<p class="muted small center">Workout Log · works offline · install to your home screen</p>`));
 
     appEl.appendChild(view);
+    wireSyncCard(view);
 
     // events
     view.querySelectorAll('[data-unit]').forEach((b) => {
@@ -534,6 +538,128 @@
         toast('All data deleted');
         router();
       }
+    });
+  }
+
+  // ---------- cloud sync UI ----------
+  function buildSyncCard() {
+    if (typeof Sync === 'undefined') return el('<div></div>');
+    const cfg = Sync.getConfig();
+    const st = Sync.getStatus();
+    const statusLine = `<div class="sync-status sync-${esc(st.state)}" id="sync-status">${esc(st.message || (Sync.isConfigured() ? 'Ready' : ''))}</div>`;
+
+    if (Sync.isConfigured()) {
+      const last = cfg.lastSync ? new Date(cfg.lastSync).toLocaleString() : 'never';
+      return el(`
+        <div class="card">
+          <div class="chart-title">☁️ Cloud sync</div>
+          <p class="muted small">Connected to a private Gist. Your phone and computer stay in sync automatically.</p>
+          <div class="sync-row">
+            <span class="muted small">Gist</span>
+            <a class="link small" href="https://gist.github.com/${esc(cfg.gistId)}" target="_blank" rel="noopener">${esc(cfg.gistId)}</a>
+          </div>
+          <label class="sync-toggle">
+            <input type="checkbox" id="sync-auto" ${cfg.auto ? 'checked' : ''} />
+            <span>Auto-sync on changes &amp; on open</span>
+          </label>
+          <p class="muted small">Last synced: ${esc(last)}</p>
+          ${statusLine}
+          <div class="btn-row">
+            <button class="primary-btn" id="sync-now">🔄 Sync now</button>
+            <button class="ghost-btn" id="sync-disconnect">Disconnect</button>
+          </div>
+        </div>`);
+    }
+
+    return el(`
+      <div class="card">
+        <div class="chart-title">☁️ Cloud sync <span class="muted small">(optional)</span></div>
+        <p class="muted small">Sync across phone &amp; computer using a private GitHub Gist — your data stays out of this public repo. You'll need a token with the <strong>gist</strong> scope.</p>
+        <ol class="sync-help muted small">
+          <li>Open <a class="link" href="https://github.com/settings/tokens/new?scopes=gist&amp;description=Workout%20Log%20sync" target="_blank" rel="noopener">this token page</a> (scope <code>gist</code> is pre-checked).</li>
+          <li>Generate it and paste it below.</li>
+        </ol>
+        <input type="password" id="sync-token" placeholder="ghp_… personal access token" autocomplete="off" aria-label="GitHub token" />
+        <div class="btn-row">
+          <button class="primary-btn" id="sync-create">Create new sync</button>
+          <button class="ghost-btn" id="sync-link-existing">Use existing Gist</button>
+        </div>
+        <div id="sync-existing" hidden>
+          <input type="text" id="sync-gistid" placeholder="existing Gist ID" autocomplete="off" aria-label="Gist ID" />
+          <button class="primary-btn" id="sync-connect">Connect &amp; merge</button>
+        </div>
+        ${statusLine}
+        <p class="muted small">The token is stored only in this browser and is used solely for your gist.</p>
+      </div>`);
+  }
+
+  function setSyncStatus(view, state, message) {
+    const elx = view.querySelector('#sync-status');
+    if (!elx) return;
+    elx.className = 'sync-status sync-' + state;
+    elx.textContent = message;
+  }
+
+  function wireSyncCard(view) {
+    if (typeof Sync === 'undefined') return;
+
+    // configured controls
+    const auto = view.querySelector('#sync-auto');
+    if (auto) auto.addEventListener('change', () => { Sync.setConfig({ auto: auto.checked }); toast(auto.checked ? 'Auto-sync on' : 'Auto-sync off'); });
+
+    const now = view.querySelector('#sync-now');
+    if (now) now.addEventListener('click', async () => {
+      setSyncStatus(view, 'working', 'Syncing…');
+      try { await Sync.sync({ onChanged: () => router() }); router(); }
+      catch (e) { setSyncStatus(view, 'error', e.message); }
+    });
+
+    const disconnect = view.querySelector('#sync-disconnect');
+    if (disconnect) disconnect.addEventListener('click', () => {
+      if (confirm('Disconnect cloud sync on this device? Your data stays here; the gist is left untouched.')) {
+        Sync.disconnect(); toast('Disconnected'); router();
+      }
+    });
+
+    // setup controls
+    const linkExisting = view.querySelector('#sync-link-existing');
+    if (linkExisting) linkExisting.addEventListener('click', () => {
+      const box = view.querySelector('#sync-existing');
+      if (box) box.hidden = !box.hidden;
+    });
+
+    async function applyToken() {
+      const token = (view.querySelector('#sync-token') || {}).value;
+      if (!token || !token.trim()) { setSyncStatus(view, 'error', 'Paste a token first'); return null; }
+      setSyncStatus(view, 'working', 'Checking token…');
+      try {
+        const login = await Sync.testToken(token.trim());
+        Sync.setConfig({ token: token.trim() });
+        setSyncStatus(view, 'ok', 'Token OK (' + login + ')');
+        return true;
+      } catch (e) {
+        setSyncStatus(view, 'error', e.message);
+        return null;
+      }
+    }
+
+    const create = view.querySelector('#sync-create');
+    if (create) create.addEventListener('click', async () => {
+      if (!(await applyToken())) return;
+      setSyncStatus(view, 'working', 'Creating gist…');
+      try { await Sync.createGist(); toast('Cloud sync enabled'); router(); }
+      catch (e) { setSyncStatus(view, 'error', e.message); }
+    });
+
+    const connect = view.querySelector('#sync-connect');
+    if (connect) connect.addEventListener('click', async () => {
+      if (!(await applyToken())) return;
+      const gid = (view.querySelector('#sync-gistid') || {}).value;
+      if (!gid || !gid.trim()) { setSyncStatus(view, 'error', 'Enter the Gist ID'); return; }
+      Sync.setConfig({ gistId: gid.trim() });
+      setSyncStatus(view, 'working', 'Connecting & merging…');
+      try { await Sync.sync({ onChanged: () => {} }); toast('Connected & synced'); router(); }
+      catch (e) { setSyncStatus(view, 'error', e.message); }
     });
   }
 
@@ -696,4 +822,14 @@
   if (!location.hash) location.hash = '#/log';
   router();
   loadProgram();
+
+  // Cloud sync: pull/merge on open, push on edits. Re-render when a remote
+  // change lands so the current view reflects data synced from another device.
+  if (typeof Sync !== 'undefined') {
+    Sync.onStatus((s) => {
+      const elx = document.getElementById('sync-status');
+      if (elx) { elx.className = 'sync-status sync-' + s.state; elx.textContent = s.message; }
+    });
+    Sync.init(() => router());
+  }
 })();

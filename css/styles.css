@@ -420,6 +420,32 @@ input[type=number] { -moz-appearance: textfield; }
 .pp-ex { display: flex; justify-content: space-between; gap: 12px; font-size: 13.5px; }
 .pp-ex span:first-child { font-weight: 600; }
 
+/* ===== Cloud sync ===== */
+.sync-row { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin: 6px 0; }
+.sync-toggle { display: flex; align-items: center; gap: 10px; margin: 8px 0; font-size: 14px; }
+.sync-toggle input { width: auto; }
+.sync-help { padding-left: 18px; margin: 6px 0; }
+.sync-help li { margin: 3px 0; }
+.sync-help code {
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  border-radius: 5px;
+  padding: 1px 5px;
+  font-size: 12px;
+}
+#sync-existing { margin-top: 8px; display: flex; flex-direction: column; gap: 8px; }
+.sync-status {
+  font-size: 13px;
+  font-weight: 600;
+  margin: 8px 0;
+  min-height: 18px;
+  word-break: break-word;
+}
+.sync-idle { color: var(--muted); }
+.sync-working { color: var(--accent); }
+.sync-ok { color: var(--green); }
+.sync-error { color: var(--red); }
+
 /* ===== Desktop / wide ===== */
 @media (min-width: 760px) {
   .modal-overlay { align-items: center; }

@@ -36,6 +36,7 @@
       settings: { unit: 'lb' },
       sessions: [],
       bodyweights: [],
+      updatedAt: 0, // ms timestamp of last local change (used by sync)
     };
   }
 
@@ -61,16 +62,29 @@
       settings: Object.assign(base.settings, data.settings || {}),
       sessions: Array.isArray(data.sessions) ? data.sessions : [],
       bodyweights: Array.isArray(data.bodyweights) ? data.bodyweights : [],
+      updatedAt: typeof data.updatedAt === 'number' ? data.updatedAt : 0,
     };
   }
 
-  function persist() {
+  // Change listeners (sync layer subscribes to push on local edits).
+  const listeners = [];
+  function onChange(cb) { listeners.push(cb); }
+  function notify(meta) { for (const cb of listeners) { try { cb(meta); } catch (e) { /* ignore */ } } }
+
+  // persist(opts): by default a local edit bumps updatedAt and notifies
+  // listeners. opts.touch=false preserves updatedAt (used when applying a
+  // remote pull); opts.silent=true suppresses change notifications (avoids
+  // a sync push loop when the change came from the remote).
+  function persist(opts) {
+    opts = opts || {};
+    if (opts.touch !== false) state.updatedAt = Date.now();
     try {
       localStorage.setItem(STORAGE_KEY, JSON.stringify(state));
     } catch (e) {
       console.error('Failed to save:', e);
       alert('Could not save — storage may be full or disabled.');
     }
+    if (!opts.silent) notify(opts);
   }
 
   // ---- date helpers ----
@@ -315,6 +329,8 @@
   function exportJSON() {
     return JSON.stringify(state, null, 2);
   }
+  function getUpdatedAt() { return state.updatedAt || 0; }
+
   function importJSON(text, mode) {
     const incoming = JSON.parse(text);
     const clean = migrate(incoming);
@@ -338,6 +354,50 @@
     }
     persist();
   }
+
+  // Reconcile a remote copy (from cloud sync) into local state.
+  //
+  // Union by stable id; when the same id exists on both sides, the record
+  // from the document with the newer updatedAt wins (last-write-wins per
+  // record). Body-weight entries are also de-duplicated by date. Returns
+  // true if local state actually changed. Does NOT bump updatedAt (we keep
+  // the merged max) and does NOT notify listeners (avoids a push loop).
+  function applyRemote(remoteObj) {
+    const remote = migrate(remoteObj);
+    const before = JSON.stringify({ s: state.sessions, b: state.bodyweights, settings: state.settings });
+    const localNewer = (state.updatedAt || 0) >= (remote.updatedAt || 0);
+
+    // sessions: keyed by id, winner overwrites loser
+    const sessions = new Map();
+    const order = [];
+    function addSessions(list) {
+      for (const s of list) {
+        if (!sessions.has(s.id)) order.push(s.id);
+        sessions.set(s.id, s);
+      }
+    }
+    if (localNewer) { addSessions(remote.sessions); addSessions(state.sessions); }
+    else { addSessions(state.sessions); addSessions(remote.sessions); }
+    state.sessions = order.map((id) => sessions.get(id));
+
+    // bodyweights: union by id, then dedupe by date keeping the winner's value
+    const bw = new Map();
+    function addBw(list) { for (const b of list) bw.set(b.id, b); }
+    if (localNewer) { addBw(remote.bodyweights); addBw(state.bodyweights); }
+    else { addBw(state.bodyweights); addBw(remote.bodyweights); }
+    const byDate = new Map();
+    for (const b of bw.values()) byDate.set(b.date, b); // later wins; winner added last
+    state.bodyweights = Array.from(byDate.values());
+
+    // settings + timestamp from the newer document
+    state.settings = localNewer ? state.settings : remote.settings;
+    state.updatedAt = Math.max(state.updatedAt || 0, remote.updatedAt || 0);
+
+    const after = JSON.stringify({ s: state.sessions, b: state.bodyweights, settings: state.settings });
+    persist({ touch: false, silent: true });
+    return before !== after;
+  }
+
   function clearAll() {
     state = emptyState();
     persist();
@@ -352,5 +412,6 @@
     getBodyweights, logBodyweight, deleteBodyweight,
     exerciseNames, exerciseHistory, personalRecords, lastPerformance, estimate1RM, summary,
     exportJSON, importJSON, clearAll,
+    onChange, getUpdatedAt, applyRemote,
   };
 })(window);

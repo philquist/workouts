@@ -1,11 +1,12 @@
 /* Service worker — offline caching for the Workout Log PWA. */
-const CACHE = 'workoutlog-v2';
+const CACHE = 'workoutlog-v3';
 const ASSETS = [
   './',
   './index.html',
   './css/styles.css',
   './js/db.js',
   './js/charts.js',
+  './js/sync.js',
   './js/app.js',
   './manifest.webmanifest',
   './data/program.json',
