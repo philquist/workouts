@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover, maximum-scale=1.0, user-scalable=no" />
+  <meta name="theme-color" content="#0f1115" />
+  <meta name="description" content="Log your gym workouts and track your strength trends." />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="apple-mobile-web-app-title" content="Workouts" />
+  <title>Workout Log</title>
+  <link rel="manifest" href="manifest.webmanifest" />
+  <link rel="icon" href="icons/icon-192.png" />
+  <link rel="apple-touch-icon" href="icons/icon-192.png" />
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <header class="appbar">
+    <h1 id="view-title">Today</h1>
+    <button id="install-btn" class="ghost-btn" hidden>Install</button>
+  </header>
+
+  <main id="app"><!-- views render here --></main>
+
+  <nav class="tabbar" role="navigation" aria-label="Main">
+    <a href="#/log"     class="tab" data-tab="log">     <span class="tab-ico">🏋️</span><span>Log</span></a>
+    <a href="#/history" class="tab" data-tab="history"> <span class="tab-ico">📒</span><span>History</span></a>
+    <a href="#/trends"  class="tab" data-tab="trends">  <span class="tab-ico">📈</span><span>Trends</span></a>
+    <a href="#/data"    class="tab" data-tab="data">    <span class="tab-ico">⚙️</span><span>Data</span></a>
+  </nav>
+
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+
+  <script src="js/db.js"></script>
+  <script src="js/charts.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
