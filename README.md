@@ -1,4 +1,4 @@
-# 🏋️ Workout Log 
+# 🏋️ Workout Log  
 
 A fast, mobile-first web app for logging your gym workouts and tracking your
 strength trends over time. Built as an installable **Progressive Web App** —
