@@ -10,7 +10,7 @@
 ### Monday - Day 1, Week 1
 
 **Warmup:**
-- [ ] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
+- [x] Joint Specific: Big Five CARs - Perform 1-3 sets of 5/e
 - [ ] Bike 15 cal
 - [ ] Wall Sit ISO 2x:30
 - [ ] Groiner Stretch 2x3ea
